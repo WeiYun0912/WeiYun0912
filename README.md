@@ -10,7 +10,7 @@
 
 <h3 align="left">My Github Stats</h3>
 
-![Wei's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiyun0912&show_icons=true&theme=dracula&hide=issues&locale=tw)
+![Wei's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiyun0912&show_icons=true&theme=dracula&hide=issues)
 
 
 
