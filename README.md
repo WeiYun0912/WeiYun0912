@@ -44,3 +44,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=weiyun0912&show_icons=true&theme=dracula&hide=issues" />
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weiyun0912)]
