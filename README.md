@@ -45,3 +45,5 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weiyun0912)]
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=weiyun0912&repo=SmartContracts)](https://github.com/WeiYun0912/SmartContracts)
