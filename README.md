@@ -43,7 +43,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=weiyun0912&show_icons=true&theme=dracula&hide=issues" />
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weiyun0912)]
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=weiyun0912&repo=SmartContracts)](https://github.com/WeiYun0912/SmartContracts)
