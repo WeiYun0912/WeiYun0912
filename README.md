@@ -1,6 +1,4 @@
-### Hi there 👋
-<h3 align="center">A passionate frontend developer from India</h3>
-
+### Chun Wei Yeh
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codesandbox.com/weiyun0912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="weiyun0912" height="30" width="40" /></a>
