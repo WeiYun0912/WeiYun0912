@@ -46,12 +46,12 @@
 </p>
 
 <h2 align="center">My Github Stats:</h2>
+<img align="left" alt="n3wt0n's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=weiyun0912&show_icons=true&theme=dracula&hide=issues&hide_border=true" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=weiyun0912&show_icons=true&theme=dracula&hide=issues" />
-</p>
+<details>
+  <summary>📋 Recent GitHub Activities</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
-### 🎥 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+</details>
