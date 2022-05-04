@@ -45,6 +45,12 @@
      <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a>
 </p>
 
+<h2 align="center">My Github Streak Stats:</h2>
+<p align="center">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=WeiYun0912&theme=dark" />
+</p>
+
+
 <h2 align="center">My Github Stats:</h2>
 <p>
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=weiyun0912&show_icons=true&theme=dracula&hide=issues&hide_border=true" />
@@ -60,6 +66,4 @@
 </p>
 
 
-<p align="center">
-  <img alt="n3wt0n's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=WeiYun0912&theme=dark" />
-</p>
+
