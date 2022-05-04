@@ -50,7 +50,6 @@
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=WeiYun0912&theme=dark" />
 </p>
 
-
 <h2 align="center">My Github Stats:</h2>
 <p>
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=weiyun0912&show_icons=true&theme=dracula&hide=issues&hide_border=true" />
@@ -63,7 +62,10 @@
 <!--END_SECTION:activity-->
 
 </details>
+
+<details>
+  <summary>Recent GitHub Commits</summary>
+  <!-- START gadpp -->
+  <!-- END gadpp-->
+</details>
 </p>
-
-
-
