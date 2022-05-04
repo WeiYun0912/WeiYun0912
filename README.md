@@ -51,7 +51,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=weiyun0912&show_icons=true&theme=dracula&hide=issues" />
 </p>
 
-### 📕 Latest YouTube Videos
+### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
