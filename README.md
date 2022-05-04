@@ -59,6 +59,8 @@
 </details>
 </p>
 
+<br>
+<br>
 
 <h2 align="center">My Github Streak Stats:</h2>
 <p align="center">
