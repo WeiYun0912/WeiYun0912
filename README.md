@@ -46,7 +46,7 @@
 </p>
 
 <h2 align="center">My Github Stats:</h2>
-<img align="left" alt="n3wt0n's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=weiyun0912&show_icons=true&theme=dracula&hide=issues&hide_border=true" />
+<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=weiyun0912&show_icons=true&theme=dracula&hide=issues&hide_border=true" />
 
 <details>
   <summary>📋 Recent GitHub Activities</summary>
@@ -56,3 +56,9 @@
 <!--END_SECTION:activity-->
 
 </details>
+
+
+<h2 align="center">My Github Streak Stats:</h2>
+<p align="center">
+  <img alt="n3wt0n's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=WeiYun0912&theme=dark" />
+</p>
