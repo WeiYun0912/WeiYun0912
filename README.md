@@ -52,6 +52,7 @@
   <summary>📋 Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com/awesome-doge/ethereumbook_zh/pull/1) in [awesome-doge/ethereumbook_zh](https://github.com/awesome-doge/ethereumbook_zh)
 <!--END_SECTION:activity-->
 
 </details>
