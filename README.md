@@ -46,6 +46,7 @@
 </p>
 
 <h2 align="center">My Github Stats:</h2>
+<p>
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=weiyun0912&show_icons=true&theme=dracula&hide=issues&hide_border=true" />
 
 <details>
@@ -56,8 +57,8 @@
 <!--END_SECTION:activity-->
 
 </details>
+</p>
 
-<br />
 
 <h2 align="center">My Github Streak Stats:</h2>
 <p align="center">
