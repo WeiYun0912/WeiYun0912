@@ -59,10 +59,7 @@
 </details>
 </p>
 
-<br>
-<br>
 
-<h2 align="center">My Github Streak Stats:</h2>
 <p align="center">
   <img alt="n3wt0n's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=WeiYun0912&theme=dark" />
 </p>
