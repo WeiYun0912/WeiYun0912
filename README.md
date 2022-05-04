@@ -63,9 +63,4 @@
 
 </details>
 
-<details>
-  <summary>Recent GitHub Commits</summary>
-  <!-- START gadpp -->
-  <!-- END gadpp-->
-</details>
 </p>
