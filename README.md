@@ -14,7 +14,7 @@
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucy1q33r6posxgttzcof--fw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucy1q33r6posxgttzcof--fw" height="30" width="40" /></a>
 </p>
   
-<h2 align="center">Things I Ever Learned </h2>  
+<h2 align="center">📓 Things I Ever Learned </h2>  
 <p>
    <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -54,7 +54,7 @@
   
 </p>
 
-<h2 align="center">Now I Code With:</h2>
+<h2 align="center">⌨️ Now I Code With:</h2>
  <p>
   <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -79,7 +79,7 @@
   <img alt="GITHUB" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<h2 align="center">Game I Played:</h2>
+<h2 align="center">🎮 Game I Played:</h2>
 <p align="center">
   <img alt="CSGO" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" />
   <img alt="PS" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
@@ -87,7 +87,7 @@
   <img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
 </p>
 
-<h2 align="center">My Github Trophy:</h2>
+<h2 align="center">🏆 My Github Trophy:</h2>
 <p align="center">
   <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=weiyun0912&theme=onedark&title=MultiLanguage,Commits,Repositories,Stars,PullRequest&row=2&column=3&margin-w=10&margin-h=10" />
 </p>
