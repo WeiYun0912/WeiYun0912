@@ -89,7 +89,7 @@
 
 <h2 align="center">My Github Trophy:</h2>
 <p align="center">
-  <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=weiyun0912&theme=onedark&title=MultiLanguage,Commits,Repositories,Stars,PullRequest" />
+  <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=weiyun0912&theme=onedark&title=MultiLanguage,Commits,Repositories,Stars,PullRequest&row=2&column=3" />
 </p>
 
 <h2 align="center">My Github Streak Stats:</h2>
