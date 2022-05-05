@@ -89,7 +89,7 @@
 
 <h2 align="center">🏆 My Github Trophy:</h2>
 <p align="center">
-  <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=weiyun0912&theme=onedark&title=MultiLanguage,Commits,Repositories,Stars,PullRequest&row=2&column=3&margin-w=10&margin-h=10" />
+  <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=weiyun0912&theme=darkhub&title=MultiLanguage,Commits,Repositories,Stars,PullRequest&row=2&column=3&margin-w=10&margin-h=10" />
 </p>
 
 <h2 align="center">My Github Streak Stats:</h2>
@@ -99,7 +99,7 @@
 
 <h2 align="center">My Github Stats:</h2>
 <p>
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=weiyun0912&show_icons=true&theme=darkhub&hide=issues&hide_border=true" />
+<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=weiyun0912&show_icons=true&theme=dark&hide=issues&hide_border=true" />
 
 <details>
   <summary>📋 Recent GitHub Activities</summary>
