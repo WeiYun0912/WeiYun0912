@@ -54,7 +54,7 @@
   <summary>📋 Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/awesome-doge/ethereumbook_zh/pull/1) in [awesome-doge/ethereumbook_zh](https://github.com/awesome-doge/ethereumbook_zh)
+1. 💪 Opened PR [#27](https://github.com/Xenogents/LegionSolver/pull/27) in [Xenogents/LegionSolver](https://github.com/Xenogents/LegionSolver)
 <!--END_SECTION:activity-->
 
 </details>
