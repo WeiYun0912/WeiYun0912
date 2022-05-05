@@ -14,8 +14,8 @@
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucy1q33r6posxgttzcof--fw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucy1q33r6posxgttzcof--fw" height="30" width="40" /></a>
 </p>
   
-<h2>Things I Ever Learned </h2>  
-<p align="center">
+<h2 align="center">Things I Ever Learned </h2>  
+<p>
    <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -50,7 +50,7 @@
 </p>
 
 <h2 align="center">Now I Code With:</h2>
- <p align="center">
+ <p>
   <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
