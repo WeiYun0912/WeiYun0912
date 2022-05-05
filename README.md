@@ -7,12 +7,6 @@
 - 📝 I regularly write articles on [https://hackmd.io/@bYoHFXNvQrysAMcmAgbSqw/B1VrZq0rc/%2FaX2XIZgQR0ObB3mWJBBW-w](https://hackmd.io/@bYoHFXNvQrysAMcmAgbSqw/B1VrZq0rc/%2FaX2XIZgQR0ObB3mWJBBW-w)
 
 - 📫 How to reach me **yher25@gmail.com**
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://codesandbox.com/weiyun0912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="weiyun0912" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucy1q33r6posxgttzcof--fw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucy1q33r6posxgttzcof--fw" height="30" width="40" /></a>
-</p>
   
 <h2 align="center">📓 Things I Ever Learned </h2>  
 <p>
@@ -92,12 +86,12 @@
   <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=weiyun0912&theme=darkhub&title=MultiLanguage,Commits,Repositories,Stars,PullRequest&row=2&column=3&margin-w=10&margin-h=10" />
 </p>
 
-<h2 align="center">My Github Streak Stats:</h2>
+<h2 align="center">⭐️ My Github Streak Stats:</h2>
 <p align="center">
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=WeiYun0912&theme=dark" />
 </p>
 
-<h2 align="center">My Github Stats:</h2>
+<h2 align="center">⭐️ My Github Stats:</h2>
 <p>
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=weiyun0912&show_icons=true&theme=dracula&hide=issues&hide_border=true" />
 
