@@ -99,7 +99,7 @@
   <summary>📋 Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#27](https://github.com/Xenogents/LegionSolver/pull/27) in [Xenogents/LegionSolver](https://github.com/Xenogents/LegionSolver)
+1. 💪 Opened PR [#816](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/816) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 <!--END_SECTION:activity-->
 
 </details>
