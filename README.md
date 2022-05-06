@@ -107,9 +107,10 @@
 
 <details>
   <summary>📋 Recent GitHub Activities (Commit, Push)</summary>
-  * ⬆️ Pushed 1 commit to WeiYun0912/WeiYun0912
-* ⬆️ Pushed 1 commit to WeiYun0912/WeiYun0912
-* ⬆️ Pushed 1 commit to WeiYun0912/WeiYun0912
+  ⭐️ 1 📦 WeiYun0912/Book-CSS
+⭐️ 1 📦 WeiYun0912/cartoon-nework
+⭐️ 1 📦 WeiYun0912/CoolProject
+⭐️ 1 📦 WeiYun0912/DriDriGo
 </details>
 
 </p>
