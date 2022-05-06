@@ -81,8 +81,6 @@
   <img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
 </p>
 
-<h2 align="center">My Activity:</h2>
-<p align="center">
 * ⬆️ Pushed 1 commit to WeiYun0912/WeiYun0912
 * ⬆️ Pushed 1 commit to WeiYun0912/WeiYun0912
 * ⬆️ Pushed 1 commit to WeiYun0912/WeiYun0912
@@ -91,6 +89,9 @@
 
 ---
 
+<p align="center">
+  Last refresh: 
+  <b>2022-05-06T05:33:41Z</b>
 </p>
 
 <h2 align="center">🏆 My Github Trophy:</h2>
