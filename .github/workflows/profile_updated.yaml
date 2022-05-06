@@ -1,3 +1,9 @@
+name: GitHub Readme Updated
+
+on:
+  schedule:
+    - cron: '30 * * * *'
+
 jobs:
   publish:
     runs-on: ubuntu-latest
