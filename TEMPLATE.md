@@ -107,7 +107,7 @@
 
 <details>
   <summary>📋 Recent GitHub Activities (Commit, Push)</summary>
-  <!--GITHUB_ACTIVITY:{"rows": 3}-->
+  <!--GITHUB_REPOS:{"rows": 4, "raw": true}-->
 </details>
 
 </p>
