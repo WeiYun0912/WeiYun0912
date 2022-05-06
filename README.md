@@ -81,11 +81,6 @@
   <img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
 </p>
 
-⭐️ 1 📦 WeiYun0912/Book-CSS
-⭐️ 1 📦 WeiYun0912/cartoon-nework
-⭐️ 1 📦 WeiYun0912/CoolProject
-⭐️ 1 📦 WeiYun0912/DriDriGo
-
 <h2 align="center">🏆 My Github Trophy:</h2>
 <p align="center">
   <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=weiyun0912&theme=darkhub&title=MultiLanguage,Commits,Repositories,Stars,PullRequest&row=2&column=3&margin-w=10&margin-h=10" />
@@ -100,7 +95,7 @@
 <p>
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=weiyun0912&show_icons=true&theme=dracula&hide=issues&hide_border=true" />
 <details>
-  <summary>📋 Recent GitHub Activities (PR, Comments)</summary>
+  <summary>📋 Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#816](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/816) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
@@ -108,7 +103,4 @@
 
 </details>
 
-
 </p>
-
-
