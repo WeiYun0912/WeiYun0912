@@ -102,5 +102,14 @@
 <!--END_SECTION:activity-->
 
 </details>
+  
+<details>
+<summary>📋 Recent GitHub Activities</summary>
+  
+<!--GITHUB_ACTIVITY:{"rows": 5}-->
+
+Last refresh: 
+<b><!--TIMESTAMP--></b>
+</details>
 
 </p>
