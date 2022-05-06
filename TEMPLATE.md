@@ -108,13 +108,13 @@
   <details>
   <summary>📋 Recent GitHub Activities (Commit, Push)</summary>
   <!--GITHUB_ACTIVITY:{"rows": 3}-->
-
-  ---
-
   <p align="center">
     Last refresh: 
     <b><!--TIMESTAMP--></b>
   </p>
+  ---
+
+  
 </details>
 
 </p>
