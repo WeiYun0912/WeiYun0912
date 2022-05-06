@@ -94,8 +94,6 @@
 <h2 align="center">⭐️ My Github Stats:</h2>
 <p>
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=weiyun0912&show_icons=true&theme=dracula&hide=issues&hide_border=true" />
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weiyun0912&layout=compact&text_color=daf7dc&bg_color=151515&hide=html" />
-
 <details>
   <summary>📋 Recent GitHub Activities</summary>
   
