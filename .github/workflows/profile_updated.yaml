@@ -1,8 +1,6 @@
 name: GitHub Readme Updated
 
-on:
-  schedule:
-    - cron: '30 * * * *'
+on:[push]
 
 jobs:
   publish:
