@@ -97,7 +97,7 @@
 <p>
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=weiyun0912&show_icons=true&theme=dracula&hide=issues&hide_border=true" />
 <details>
-  <summary>📋 Recent GitHub Activities</summary>
+  <summary>📋 Recent GitHub Activities (PR, Merge, Comments)</summary>
   
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#816](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/816) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
@@ -105,17 +105,22 @@
 
 </details>
 
+  <details>
+  <summary>📋 Recent GitHub Activities (Commit, Push)</summary>
+  * ⬆️ Pushed 1 commit to WeiYun0912/WeiYun0912
+* ⬆️ Pushed 1 commit to WeiYun0912/WeiYun0912
+* ⬆️ Pushed 1 commit to WeiYun0912/WeiYun0912
+* ⬆️ Pushed 1 commit to WeiYun0912/WeiYun0912
+* ⬆️ Pushed 1 commit to WeiYun0912/WeiYun0912
+
+  ---
+
+  <p align="center">
+    Last refresh: 
+    <b>2022-05-06T05:36:53Z</b>
+  </p>
+</details>
+
 </p>
 
-* ⬆️ Pushed 1 commit to WeiYun0912/WeiYun0912
-* ⬆️ Pushed 1 commit to WeiYun0912/WeiYun0912
-* ⬆️ Pushed 1 commit to WeiYun0912/WeiYun0912
-* ⬆️ Pushed 1 commit to WeiYun0912/WeiYun0912
-* ⬆️ Pushed 1 commit to WeiYun0912/WeiYun0912
 
----
-
-<p align="center">
-  Last refresh: 
-  <b>2022-05-06T05:34:43Z</b>
-</p>
