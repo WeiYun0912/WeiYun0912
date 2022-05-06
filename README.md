@@ -81,7 +81,10 @@
   <img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
 </p>
 
-
+⭐️ 1 📦 WeiYun0912/Book-CSS
+⭐️ 1 📦 WeiYun0912/cartoon-nework
+⭐️ 1 📦 WeiYun0912/CoolProject
+⭐️ 1 📦 WeiYun0912/DriDriGo
 
 <h2 align="center">🏆 My Github Trophy:</h2>
 <p align="center">
@@ -105,13 +108,6 @@
 
 </details>
 
-<details>
-  <summary>📋 Recent GitHub Activities (Commit, Push)</summary>
-  ⭐️ 1 📦 WeiYun0912/Book-CSS
-⭐️ 1 📦 WeiYun0912/cartoon-nework
-⭐️ 1 📦 WeiYun0912/CoolProject
-⭐️ 1 📦 WeiYun0912/DriDriGo
-</details>
 
 </p>
 
