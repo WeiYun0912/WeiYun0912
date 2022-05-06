@@ -1,6 +1,6 @@
 name: GitHub Readme Updated
 
-on:[push]
+on: push
 
 jobs:
   publish:
