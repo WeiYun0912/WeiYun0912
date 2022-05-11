@@ -113,9 +113,6 @@
   校內專題競賽(二) 第二名 獎金：$5,000
 </p>
 <p align="center">
-  校內專題競賽(二) 第二名 獎金：$5,000
-</p>
-<p align="center">
   <a href="https://www.cna.com.tw/postwrite/detail/262726"  target="_blank" >樹德大使選拔 知性大使</a> 獎金：$8,000
 </p>
 <p align="center">
@@ -125,7 +122,7 @@
   2019臺南市資料視覺挑戰賽 入圍
 </p>
 <p align="center">
-  2018資料創新應用競賽 社會經濟空間組-入圍
+  2018資料創新應用競賽 入圍社會經濟空間組
 </p>
 
 <h2 align="center">🏆 My Github Trophy:</h2>
