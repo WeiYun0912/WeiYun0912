@@ -82,9 +82,11 @@
 </p>
 
 <h2 align="center">📺 Latest YouTube Videos:</h2>
+
 <a href="https://www.youtube.com/channel/UCy1Q33r6POsxGTtZcOF--Fw">
- <img alt="youtube views" src="https://lurl.cc/Wst3kh"/>
+ <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCy1Q33r6POsxGTtZcOF--Fw&key=AIzaSyDRjAz4k5WcnDU_WrJVQvAMIgh6PusANHg"/>
 </a>
+
 <!-- YOUTUBE:START -->
 - [以太坊區塊鏈 Truffle Ganache 工具使用介紹](https://www.youtube.com/watch?v=Z7CeH5srgdo)
 - [第26屆大專校院資訊應用服務創新競賽-去中心化二手車交易平台-競賽影片&lpar;請評審開啟CC字幕，謝謝!&rpar; 建議調整為 1080p](https://www.youtube.com/watch?v=-kcfoJK1nhs)
