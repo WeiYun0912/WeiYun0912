@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **yher25@gmail.com**
   
-<h2 align="center">📓 Things I Ever Learned </h2>  
+<h2 align="center">📓 Things I Have Ever Learned </h2>  
 <p>
    <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
