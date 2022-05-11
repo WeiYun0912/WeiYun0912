@@ -112,12 +112,7 @@
 <p align="center">
   校內專題競賽(二) 第二名 獎金：$5,000
 </p>
-<p align="center">
-  [樹德大使選拔 知性大使](https://www.cna.com.tw/postwrite/detail/262726) 獎金：$8,000
-</p>
-
 [樹德大使選拔 知性大使](https://www.cna.com.tw/postwrite/detail/262726)
-
 <p align="center">
   2021第26屆大專校院資訊應用服務創新競賽 入圍亞太中文組
 </p>
