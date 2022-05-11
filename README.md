@@ -125,6 +125,11 @@
   2018資料創新應用競賽 入圍社會經濟空間組
 </p>
 
+<h4 align="center">
+  競賽總計獎金：$216,400
+</p>
+
+
 <h2 align="center">🏆 My Github Trophy:</h2>
 <p align="center">
   <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=weiyun0912&theme=darkhub&title=MultiLanguage,Commits,Repositories,Stars,PullRequest&row=2&column=3&margin-w=10&margin-h=10" />
