@@ -90,9 +90,6 @@
 - [智能合約 - Solidity Fallback Receive](https://www.youtube.com/watch?v=qse3c0VePfU)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/user/123123960)
-
----
 <h2 align="center">🏅 Extracurricular Activities:</h2>
 <p align="center">
   2018亞洲跨國際黑克松 入圍台灣前五名 獎金：$73,000
