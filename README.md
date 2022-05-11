@@ -82,10 +82,11 @@
 </p>
 
 <h2 align="center">📺 Latest YouTube Videos:</h2>
-
-<a href="https://www.youtube.com/channel/UCy1Q33r6POsxGTtZcOF--Fw">
- <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCy1Q33r6POsxGTtZcOF--Fw&key=AIzaSyDRjAz4k5WcnDU_WrJVQvAMIgh6PusANHg"/>
-</a>
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCy1Q33r6POsxGTtZcOF--Fw">
+   <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCy1Q33r6POsxGTtZcOF--Fw&key=AIzaSyDRjAz4k5WcnDU_WrJVQvAMIgh6PusANHg"/>
+  </a>
+</p>
 
 <!-- YOUTUBE:START -->
 - [以太坊區塊鏈 Truffle Ganache 工具使用介紹](https://www.youtube.com/watch?v=Z7CeH5srgdo)
