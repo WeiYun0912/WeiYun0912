@@ -107,9 +107,23 @@
   2019資料創新應用競賽 多元氣象服務組-銅獎 獎金：$50,000
 </p>
 <p align="center">
+  校內專題競賽(三) 第一名 獎金：$8,000
+</p>
+<p align="center">
+  校內專題競賽(二) 第二名 獎金：$5,000
+</p>
+<p align="center">
+  [樹德大使選拔 知性大使](https://www.cna.com.tw/postwrite/detail/262726) 獎金：$8,000
+</p>
+<p align="center">
   2021第26屆大專校院資訊應用服務創新競賽 入圍亞太中文組
 </p>
-
+<p align="center">
+  2019臺南市資料視覺挑戰賽 入圍
+</p>
+<p align="center">
+  2018資料創新應用競賽 社會經濟空間組-入圍
+</p>
 
 <h2 align="center">🏆 My Github Trophy:</h2>
 <p align="center">
