@@ -84,7 +84,7 @@
 <h2 align="center">📺 Latest YouTube Videos:</h2>
 <p align="center">
   <a href="https://www.youtube.com/channel/UCy1Q33r6POsxGTtZcOF--Fw">
-   <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCy1Q33r6POsxGTtZcOF--Fw&key=AIzaSyDRjAz4k5WcnDU_WrJVQvAMIgh6PusANHg&color=0a8b9d&style=plastic"/>
+   <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCy1Q33r6POsxGTtZcOF--Fw&key="+'AIzaSyDRjAz4k5WcnDU_WrJVQvAMIgh6PusANHg'+"&color=0a8b9d&style=plastic"/>
   </a>
 </p>
 
