@@ -80,6 +80,14 @@
   <img alt="Switch" src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" />
   <img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
 </p>
+
+<h2 align="center">📺 Latest YouTube Videos:</h2>
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/user/123123960)
+
+---
 <h2 align="center">🏅 Extracurricular Activities:</h2>
 <p align="center">
   2018亞洲跨國際黑克松 入圍台灣前五名 獎金：$73,000
