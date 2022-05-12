@@ -89,11 +89,11 @@
 </p>
 
 <!-- YOUTUBE:START -->
+- [智能合約 - Solidity Immutable](https://www.youtube.com/watch?v=Q-nQd0ns9Tk)
 - [以太坊區塊鏈 Truffle Ganache 工具使用介紹](https://www.youtube.com/watch?v=Z7CeH5srgdo)
 - [第26屆大專校院資訊應用服務創新競賽-去中心化二手車交易平台-競賽影片&lpar;請評審開啟CC字幕，謝謝!&rpar; 建議調整為 1080p](https://www.youtube.com/watch?v=-kcfoJK1nhs)
 - [亞太中文組-02-去中心化二手車交易平台-決賽簡報說明與展示影片 &lpar;影片有CC字幕，再麻煩評審委員開啟，謝謝！&rpar;](https://www.youtube.com/watch?v=1aacw-dn0mc)
 - [智能合約 - Solidity Selfdestruct](https://www.youtube.com/watch?v=iAYbLLM7AzQ)
-- [智能合約 - Solidity Fallback Receive](https://www.youtube.com/watch?v=qse3c0VePfU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/123123960)
