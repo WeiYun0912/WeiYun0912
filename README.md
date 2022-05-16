@@ -152,7 +152,7 @@
   <summary>📋 Recent GitHub Activities </summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#816](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/816) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+1. 💪 Opened PR  [#816](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/816) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 <!--END_SECTION:activity-->
 
 </details>
