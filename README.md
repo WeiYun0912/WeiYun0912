@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Chun Wei Yeh</h1>
+<h1 align="center">Hi 👋, I'm Chun Wei Yeh<br>![](https://komarev.com/ghpvc/?username=weiyun0912)
+</h1>
+
 
 - 🔭 I’m currently working on [SmartContract Tutorial](https://github.com/WeiYun0912/SmartContracts)
 
@@ -8,7 +10,7 @@
 
 - 📫 How to reach me **yher25@gmail.com**
   
-![](https://komarev.com/ghpvc/?username=weiyun0912)
+
   
 <h2 align="center">📓 Things I Have Ever Learned </h2>  
 <p>
