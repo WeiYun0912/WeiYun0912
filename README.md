@@ -91,11 +91,11 @@
 </p>
 
 <!-- YOUTUBE:START -->
+- [智能合約 - Solidity View Pure](https://www.youtube.com/watch?v=bQIlnjAhrhY)
+- [智能合約 - Solidity Enum](https://www.youtube.com/watch?v=8antG483vJI)
 - [智能合約 - Solidity New一份智能合約](https://www.youtube.com/watch?v=Qon6xDCK-ls)
 - [智能合約 - Solidity 如何讓使用者執行惡意程式碼與防護方式 &lpar;Rinkeby&rpar;](https://www.youtube.com/watch?v=pvj6a_LZ_xs)
 - [智能合約 - Solidity Immutable](https://www.youtube.com/watch?v=Q-nQd0ns9Tk)
-- [以太坊區塊鏈 Truffle Ganache 工具使用介紹](https://www.youtube.com/watch?v=Z7CeH5srgdo)
-- [第26屆大專校院資訊應用服務創新競賽-去中心化二手車交易平台-競賽影片&lpar;請評審開啟CC字幕，謝謝!&rpar; 建議調整為 1080p](https://www.youtube.com/watch?v=-kcfoJK1nhs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/123123960)
