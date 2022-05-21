@@ -91,11 +91,11 @@
 </p>
 
 <!-- YOUTUBE:START -->
+- [智能合約 - Solidity Call](https://www.youtube.com/watch?v=DY4gq92fbRI)
 - [智能合約 - Solidity View Pure](https://www.youtube.com/watch?v=bQIlnjAhrhY)
 - [智能合約 - Solidity Enum](https://www.youtube.com/watch?v=8antG483vJI)
 - [智能合約 - Solidity New一份智能合約](https://www.youtube.com/watch?v=Qon6xDCK-ls)
 - [智能合約 - Solidity 如何讓使用者執行惡意程式碼與防護方式 &lpar;Rinkeby&rpar;](https://www.youtube.com/watch?v=pvj6a_LZ_xs)
-- [智能合約 - Solidity Immutable](https://www.youtube.com/watch?v=Q-nQd0ns9Tk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/123123960)
