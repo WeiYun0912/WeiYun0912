@@ -91,7 +91,7 @@
 </p>
 
 <!-- YOUTUBE:START -->
-- [智能合約- 使用Slither來檢測Solidity程式碼有無漏洞](https://www.youtube.com/watch?v=IJ5VwEZvbbc)
+- [智能合約 - Slither 檢查 Solidity 有無漏洞](https://www.youtube.com/watch?v=IJ5VwEZvbbc)
 - [智能合約 - Solidity 使用 Delegatecall 來竄改智能合約變數](https://www.youtube.com/watch?v=aEUZTDOpJ1k)
 - [智能合約 - Solidity Delegatecall](https://www.youtube.com/watch?v=wJiV6OWoOpQ)
 - [智能合約 - Solidity Call](https://www.youtube.com/watch?v=DY4gq92fbRI)
