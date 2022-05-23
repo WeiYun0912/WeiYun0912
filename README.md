@@ -91,11 +91,11 @@
 </p>
 
 <!-- YOUTUBE:START -->
+- [智能合約- 使用Slither來檢測Solidity程式碼有無漏洞](https://www.youtube.com/watch?v=IJ5VwEZvbbc)
 - [智能合約 - Solidity 使用 Delegatecall 來竄改智能合約變數](https://www.youtube.com/watch?v=aEUZTDOpJ1k)
 - [智能合約 - Solidity Delegatecall](https://www.youtube.com/watch?v=wJiV6OWoOpQ)
 - [智能合約 - Solidity Call](https://www.youtube.com/watch?v=DY4gq92fbRI)
 - [智能合約 - Solidity View Pure](https://www.youtube.com/watch?v=bQIlnjAhrhY)
-- [智能合約 - Solidity Enum](https://www.youtube.com/watch?v=8antG483vJI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/123123960)
