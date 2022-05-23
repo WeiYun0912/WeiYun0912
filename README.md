@@ -110,6 +110,8 @@
 - [智能合約 — Reentrancy 重入攻擊](https://medium.com/@weiyun0912/%E6%99%BA%E8%83%BD%E5%90%88%E7%B4%84-reentrancy-%E9%87%8D%E5%85%A5%E6%94%BB%E6%93%8A-ffa7187158c5?source=rss-d8aa3754f97a------2)
 <!-- BLOG-POST-LIST:END -->
 
+➡️ [more posts...](https://medium.com/@weiyun0912)
+
 <h2 align="center">🏅 Extracurricular Activities:</h2>
 <p align="center">
   <a href="https://www.facebook.com/moeaidb/posts/1127813564049448/">2018亞洲跨國際黑克松 入圍台灣前五名 獎金：$73,000</a>
