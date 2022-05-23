@@ -102,6 +102,7 @@
 
 <h2 align="center">📕 Latest Blog Posts:</h2>
 <!-- BLOG-POST-LIST:START -->
+- [智能合約 — Solidity Call](https://medium.com/@weiyun0912/%E6%99%BA%E8%83%BD%E5%90%88%E7%B4%84-solidity-call-2fcc202fc85c?source=rss-d8aa3754f97a------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="center">🏅 Extracurricular Activities:</h2>
