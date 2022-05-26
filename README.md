@@ -104,11 +104,11 @@
 <h2 align="center">📕 Latest Blog Posts:</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [智能合約 — Solidity Data Location &lpar;Storage、Memory、Calldata&rpar;](https://medium.com/@weiyun0912/%E6%99%BA%E8%83%BD%E5%90%88%E7%B4%84-solidity-data-location-storage-memory-calldata-aae010046ace?source=rss-d8aa3754f97a------2)
 - [以太坊區塊鏈開發工具 — 使用Truffle將智能合約部署至Rinkeby並驗證](https://medium.com/@weiyun0912/%E4%BB%A5%E5%A4%AA%E5%9D%8A%E5%8D%80%E5%A1%8A%E9%8F%88%E9%96%8B%E7%99%BC%E5%B7%A5%E5%85%B7-%E4%BD%BF%E7%94%A8truffle%E5%B0%87%E6%99%BA%E8%83%BD%E5%90%88%E7%B4%84%E9%83%A8%E7%BD%B2%E8%87%B3rinkeby%E4%B8%A6%E9%A9%97%E8%AD%89-6854ee802107?source=rss-d8aa3754f97a------2)
 - [以太坊區塊鏈開發工具 — Truffle Ganache 使用教學](https://medium.com/@weiyun0912/%E4%BB%A5%E5%A4%AA%E5%9D%8A%E5%8D%80%E5%A1%8A%E9%8F%88%E9%96%8B%E7%99%BC%E5%B7%A5%E5%85%B7-truffle-ganache-%E4%BD%BF%E7%94%A8%E6%95%99%E5%AD%B8-51e042989f7e?source=rss-d8aa3754f97a------2)
 - [智能合約 — Solidity Selfdestruct](https://medium.com/@weiyun0912/%E6%99%BA%E8%83%BD%E5%90%88%E7%B4%84-solidity-selfdestruct-468d2be2d620?source=rss-d8aa3754f97a------2)
 - [Solidity — Overflow and Underflow](https://medium.com/@weiyun0912/solidity-overflow-and-underflow-a79bfe29c5b2?source=rss-d8aa3754f97a------2)
-- [智能合約 — Reentrancy 重入攻擊](https://medium.com/@weiyun0912/%E6%99%BA%E8%83%BD%E5%90%88%E7%B4%84-reentrancy-%E9%87%8D%E5%85%A5%E6%94%BB%E6%93%8A-ffa7187158c5?source=rss-d8aa3754f97a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more posts...](https://medium.com/@weiyun0912)
