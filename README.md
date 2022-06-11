@@ -88,11 +88,6 @@
 </p>
 
 <h2 align="center">📺 Latest YouTube Videos:</h2>
-<p align="center">
-  <a href="https://www.youtube.com/channel/UCy1Q33r6POsxGTtZcOF--Fw">
-   <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCy1Q33r6POsxGTtZcOF--Fw&key=AIzaSyDRjAz4k5WcnDU_WrJVQvAMIgh6PusANHg&color=0a8b9d&style=plastic"/>
-  </a>
-</p>
 
 <!-- YOUTUBE:START -->
 - [智能合約 - Solidity Denial of Service 中止其他智能合約的運作](https://www.youtube.com/watch?v=o2v_4BvT11U)
