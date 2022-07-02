@@ -91,11 +91,11 @@
 <h2 align="center">📺 Latest YouTube Videos:</h2>
 
 <!-- YOUTUBE:START -->
+- [React Storybook 部署方法以及如何持續整合&lpar;CI&rpar;](https://www.youtube.com/watch?v=wNh_DYvVm28)
 - [React Storybook 介紹與基礎實作](https://www.youtube.com/watch?v=Tj4baYE1l1Y)
 - [智能合約 - Solidity ERC20 實作與說明](https://www.youtube.com/watch?v=S-5nysPk-ns)
 - [如何將 React Native 專案打包成apk檔 &lpar;非expo&rpar;](https://www.youtube.com/watch?v=up_MKy2KZVI)
 - [智能合約 - Solidity 利用 keccak256 hash function 來為使用者分配角色權限](https://www.youtube.com/watch?v=eYG-XAKaxqU)
-- [智能合約 - Solidity Denial of Service 中止其他智能合約的運作](https://www.youtube.com/watch?v=o2v_4BvT11U)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/123123960)
