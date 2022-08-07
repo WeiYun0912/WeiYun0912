@@ -91,11 +91,11 @@
 <h2 align="center">📺 Latest YouTube Videos:</h2>
 
 <!-- YOUTUBE:START -->
+- [JavaScript Array Functions &lpar;forEach、map、filter、sort、find、findIndex、every、some、reduce、composition&rpar;](https://www.youtube.com/watch?v=jx10PmRmTTQ)
 - [JavaScript Promise 介紹](https://www.youtube.com/watch?v=ONIDI9jHZ9I)
 - [JavaScript import 與 export 教學](https://www.youtube.com/watch?v=fhGfSaJRyyQ)
 - [React Storybook 部署方法以及如何持續整合&lpar;CI&rpar;](https://www.youtube.com/watch?v=wNh_DYvVm28)
 - [React Storybook 介紹與基礎實作](https://www.youtube.com/watch?v=Tj4baYE1l1Y)
-- [智能合約 - Solidity ERC20 實作與說明](https://www.youtube.com/watch?v=S-5nysPk-ns)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/123123960)
