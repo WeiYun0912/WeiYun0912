@@ -7,6 +7,8 @@
 - 📝 I regularly write articles on [HackMD](https://hackmd.io/2Isyh2J3Sd61XNqRiH922Q) and [Medium](https://medium.com/@weiyun0912)
 
 - 📫 How to reach me **yher25@gmail.com**
+
+- 📓 CakeResume：https://www.cakeresume.com/wei-wei-e8a62e
   
 
   
