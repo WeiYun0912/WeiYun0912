@@ -93,11 +93,11 @@
 <h2 align="center">📺 Latest YouTube Videos:</h2>
 
 <!-- YOUTUBE:START -->
+- [React - Redux Toolkit 使用教學](https://www.youtube.com/watch?v=IgFtEGXjl7Y)
 - [以太坊區塊鏈 Remix IDE &amp; Truffle &amp; Ganache 連線設定補充說明](https://www.youtube.com/watch?v=CUrye6xuWJ0)
 - [JavaScript Array Functions &lpar;forEach、map、filter、sort、find、findIndex、every、some、reduce、composition&rpar;](https://www.youtube.com/watch?v=jx10PmRmTTQ)
 - [JavaScript Promise 介紹](https://www.youtube.com/watch?v=ONIDI9jHZ9I)
 - [JavaScript import 與 export 教學](https://www.youtube.com/watch?v=fhGfSaJRyyQ)
-- [React Storybook 部署方法以及如何持續整合&lpar;CI&rpar;](https://www.youtube.com/watch?v=wNh_DYvVm28)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/123123960)
