@@ -105,11 +105,11 @@
 <h2 align="center">📕 Latest Blog Posts:</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [React Query 介紹](https://medium.com/@weiyun0912/react-query-%E4%BB%8B%E7%B4%B9-e97b8c9e7823?source=rss-d8aa3754f97a------2)
 - [VS Code Emmet使用教學](https://medium.com/@weiyun0912/vs-code-emmet%E4%BD%BF%E7%94%A8%E6%95%99%E5%AD%B8-30e4262cc14f?source=rss-d8aa3754f97a------2)
 - [Redux Toolkit 介紹](https://medium.com/@weiyun0912/redux-toolkit-%E4%BB%8B%E7%B4%B9-fbc81fc3403c?source=rss-d8aa3754f97a------2)
 - [React Router v6 簡易介紹](https://medium.com/@weiyun0912/react-router-v6-%E7%B0%A1%E6%98%93%E4%BB%8B%E7%B4%B9-7ee780f4af5?source=rss-d8aa3754f97a------2)
 - [以太坊區塊鏈開發工具 — Hardhat Task 介紹](https://medium.com/@weiyun0912/%E4%BB%A5%E5%A4%AA%E5%9D%8A%E5%8D%80%E5%A1%8A%E9%8F%88%E9%96%8B%E7%99%BC%E5%B7%A5%E5%85%B7-hardhat-task-%E4%BB%8B%E7%B4%B9-5fdcf6c153fe?source=rss-d8aa3754f97a------2)
-- [GitHub — WeiYun0912/Hardhat](https://medium.com/@weiyun0912/github-weiyun0912-hardhat-c57cbddd4208?source=rss-d8aa3754f97a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more posts...](https://medium.com/@weiyun0912)
