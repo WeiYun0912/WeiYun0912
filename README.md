@@ -93,11 +93,11 @@
 <h2 align="center">📺 Latest YouTube Videos:</h2>
 
 <!-- YOUTUBE:START -->
+- [GraphQL 與 Apollo Server 使用教學 - Part 2](https://www.youtube.com/watch?v=jrlqFB7dkEw)
 - [GraphQL 與 Apollo Server 使用教學 - Part 1](https://www.youtube.com/watch?v=1GC4tPj-IjE)
 - [使用 JavaScript 發送瀏覽器通知給使用者](https://www.youtube.com/watch?v=CUBAR76jDkI)
 - [React - Redux Toolkit 使用教學](https://www.youtube.com/watch?v=IgFtEGXjl7Y)
 - [以太坊區塊鏈 Remix IDE &amp; Truffle &amp; Ganache 連線設定補充說明](https://www.youtube.com/watch?v=CUrye6xuWJ0)
-- [JavaScript Array Functions &lpar;forEach、map、filter、sort、find、findIndex、every、some、reduce、composition&rpar;](https://www.youtube.com/watch?v=jx10PmRmTTQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/123123960)
