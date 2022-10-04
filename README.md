@@ -95,7 +95,7 @@
 <h2 align="center">📺 Latest YouTube Videos:</h2>
 
 <!-- YOUTUBE:START -->
-- [React - memorize](https://www.youtube.com/watch?v=KAewufhGrd8)
+- [React教學 - memorize](https://www.youtube.com/watch?v=KAewufhGrd8)
 - [GraphQL 與 Apollo Server 使用教學 - Part 3](https://www.youtube.com/watch?v=RkEUJFxB51o)
 - [GraphQL 與 Apollo Server 使用教學 - Part 2](https://www.youtube.com/watch?v=jrlqFB7dkEw)
 - [GraphQL 與 Apollo Server 使用教學 - Part 1](https://www.youtube.com/watch?v=1GC4tPj-IjE)
