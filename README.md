@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Blockchain Tech**
 
-- 📝 I regularly write articles on [HackMD](https://hackmd.io/2Isyh2J3Sd61XNqRiH922Q) and [Medium](https://medium.com/@weiyun0912)
+- 📝 I regularly write articles on [Medium](https://medium.com/@weiyun0912) and [my website](https://weiyun0912.github.io/Wei-Docusaurus/docs/intro)
 
 - 📫 How to reach me **yher25@gmail.com**
 
