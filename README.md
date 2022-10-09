@@ -95,11 +95,11 @@
 <h2 align="center">📺 Latest YouTube Videos:</h2>
 
 <!-- YOUTUBE:START -->
+- [React教學 - 使用 Google 帳號登入網站 &lpar;OAuth&rpar;](https://www.youtube.com/watch?v=Xuy2fuE2qAI)
 - [React教學 - 使用 Protected Routes 限制使用者可訪問的頁面](https://www.youtube.com/watch?v=8TuUURngweE)
 - [React小技巧 &lpar;5&rpar; - 可選鏈 Optinal Chaining](https://www.youtube.com/watch?v=ytsSTpJMc64)
 - [React小技巧 &lpar;4&rpar; - 物件 Objects](https://www.youtube.com/watch?v=vX1MbJGvtdM)
 - [React小技巧 &lpar;3&rpar; - 三元運算子 Ternary Operators](https://www.youtube.com/watch?v=5U7Y35_lGxI)
-- [React小技巧 &lpar;2&rpar; - 樣板字串 Template String](https://www.youtube.com/watch?v=ik6r85_Q9h4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/123123960)
