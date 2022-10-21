@@ -95,11 +95,11 @@
 <h2 align="center">📺 Latest YouTube Videos:</h2>
 
 <!-- YOUTUBE:START -->
+- [React教學 - Storybook 介紹與基礎實作](https://www.youtube.com/watch?v=KK6JiP3o7sU)
 - [VS Code 使用快捷鍵加快開發速度](https://www.youtube.com/watch?v=0MCp0gSQAvo)
 - [如何在 Docusaurus 中使用 Algolia 實作搜尋功能](https://www.youtube.com/watch?v=cykGdsbe6f0)
 - [使用 Vite 快速建立 React 專案](https://www.youtube.com/watch?v=L2st9fjYjZM)
 - [React教學 - React Icons 套件介紹](https://www.youtube.com/watch?v=c7g0dmj7icU)
-- [React教學 - 使用 RTK Query 來獲取 API 資料](https://www.youtube.com/watch?v=o3mLBW9g7_U)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/123123960)
