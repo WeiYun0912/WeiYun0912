@@ -95,11 +95,11 @@
 <h2 align="center">📺 Latest YouTube Videos:</h2>
 
 <!-- YOUTUBE:START -->
+- [使用 Skeleton 改善使用者體驗](https://www.youtube.com/watch?v=1AnEkcEX-gM)
 - [React教學 - 使用 Lazy 與 Suspense 動態載入 Component](https://www.youtube.com/watch?v=CPFutYbNamA)
 - [8個你必須安裝的 VS Code 擴充套件 &lpar;VS Code Extensions&rpar;](https://www.youtube.com/watch?v=GXSs-BOIJgA)
 - [Git教學 - Git 常用的指令： add -i、log、branch、stash 及如何處理衝突 &lpar;conflict&rpar;](https://www.youtube.com/watch?v=d6DttluW5Fg)
 - [React教學 - 使用 useImperativeHandle 在父Component中使用子Component提供的方法](https://www.youtube.com/watch?v=4OHw0CFPWZw)
-- [React教學 -  Form 表單驗證 &lpar;Formik、React-Hook-Form、Yup&rpar;](https://www.youtube.com/watch?v=J718kpFmvCA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/123123960)
