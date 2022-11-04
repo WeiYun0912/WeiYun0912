@@ -95,11 +95,11 @@
 <h2 align="center">📺 Latest YouTube Videos:</h2>
 
 <!-- YOUTUBE:START -->
+- [React教學 - useMemo 補充 &lpar;Object &amp; Array&rpar;](https://www.youtube.com/watch?v=roiJeVnICPE)
 - [Web Components 教學 &lpar;HTML Templates、Custom Elements、Shadow DOM&rpar;](https://www.youtube.com/watch?v=spB9e__IPMw)
 - [PostCSS教學 - 基本設定與常用外掛 &lpar;Plugins&rpar;](https://www.youtube.com/watch?v=EdiqfOKHBb8)
 - [使用 Skeleton 改善使用者體驗](https://www.youtube.com/watch?v=1AnEkcEX-gM)
 - [React教學 - 使用 Lazy 與 Suspense 動態載入 Component](https://www.youtube.com/watch?v=CPFutYbNamA)
-- [8個你必須安裝的 VS Code 擴充套件 &lpar;VS Code Extensions&rpar;](https://www.youtube.com/watch?v=GXSs-BOIJgA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/123123960)
