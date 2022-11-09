@@ -95,11 +95,11 @@
 <h2 align="center">📺 Latest YouTube Videos:</h2>
 
 <!-- YOUTUBE:START -->
+- [React教學 - 使用 Framer-Motion 製作頁面轉場特效 &lpar;Page Transitions&rpar;](https://www.youtube.com/watch?v=ApJID9oEPBA)
 - [React教學 -  使用 React Slick 套件製作輪播效果 &lpar;Carousel&rpar;](https://www.youtube.com/watch?v=ELgevELiOxc)
 - [React教學 - 初學者常犯的錯誤 &lpar;useState&rpar;](https://www.youtube.com/watch?v=kbos1xdRhlk)
 - [React教學 - useMemo 補充 &lpar;Object &amp; Array&rpar;](https://www.youtube.com/watch?v=roiJeVnICPE)
 - [Web Components 教學 &lpar;HTML Templates、Custom Elements、Shadow DOM&rpar;](https://www.youtube.com/watch?v=spB9e__IPMw)
-- [PostCSS教學 - 基本設定與常用外掛 &lpar;Plugins&rpar;](https://www.youtube.com/watch?v=EdiqfOKHBb8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/123123960)
