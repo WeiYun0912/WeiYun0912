@@ -170,7 +170,7 @@
   <summary>📋 Recent GitHub Activities </summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR  [#816](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/816) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+1. 🗣 Commented on [#1](https://github.com/WeiYun0912/Hardhat-Tasks/issues/1) in [WeiYun0912/Hardhat-Tasks](https://github.com/WeiYun0912/Hardhat-Tasks)
 <!--END_SECTION:activity-->
 
 </details>
