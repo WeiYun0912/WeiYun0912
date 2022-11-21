@@ -95,11 +95,11 @@
 <h2 align="center">📺 Latest YouTube Videos:</h2>
 
 <!-- YOUTUBE:START -->
+- [React教學 - 使用 useContext 與 useReducer 管理 state &lpar;Todolist&rpar;](https://www.youtube.com/watch?v=mU_kaUftxFA)
 - [React教學 - 使用 useReducer Hook 實作 Todolist](https://www.youtube.com/watch?v=BKuTd_3zA1E)
 - [使用 CSS 製作翻書效果 &lpar;CSS Animation - Book Flip&rpar;](https://www.youtube.com/watch?v=LcDP9x4pw5Q)
 - [React教學 - 使用 Framer-Motion 製作頁面轉場特效 &lpar;Page Transitions&rpar;](https://www.youtube.com/watch?v=ApJID9oEPBA)
 - [React教學 -  使用 React Slick 套件製作輪播效果 &lpar;Carousel&rpar;](https://www.youtube.com/watch?v=ELgevELiOxc)
-- [React教學 - 初學者常犯的錯誤 &lpar;useState&rpar;](https://www.youtube.com/watch?v=kbos1xdRhlk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/123123960)
