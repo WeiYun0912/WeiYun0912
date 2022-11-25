@@ -95,11 +95,11 @@
 <h2 align="center">📺 Latest YouTube Videos:</h2>
 
 <!-- YOUTUBE:START -->
+- [React教學 - useEffect cleanup 及 React 18 與 React 17 之 useEffect 比較 &lpar;為何 18 版的 useEffect 程式碼會執行兩次&rpar;](https://www.youtube.com/watch?v=sQio-tk6wCI)
 - [React教學 - 你也曾發生過畫面閃爍的問題嗎? &lpar;useLayoutEffect、useInsertionEffect&rpar;](https://www.youtube.com/watch?v=9fsxLnWeNl0)
 - [React教學 - 使用 useContext 與 useReducer 管理 state &lpar;Todolist&rpar;](https://www.youtube.com/watch?v=mU_kaUftxFA)
 - [React教學 - 使用 useReducer Hook 實作 Todolist](https://www.youtube.com/watch?v=BKuTd_3zA1E)
 - [使用 CSS 製作翻書效果 &lpar;CSS Animation - Book Flip&rpar;](https://www.youtube.com/watch?v=LcDP9x4pw5Q)
-- [React教學 - 使用 Framer-Motion 製作頁面轉場特效 &lpar;Page Transitions&rpar;](https://www.youtube.com/watch?v=ApJID9oEPBA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/123123960)
