@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **web technology**
 
-- 📝 I regularly write articles on [my website](https://weiyun0912.github.io/Wei-Docusaurus/docs/intro) and [Medium](https://medium.com/@weiyun0912)
+- 📝 I regularly write articles on [my website](https://weiyun0912.github.io/Wei-Docusaurus/docs/intro) and [medium post](https://medium.com/@weiyun0912)
 
 - 📫 How to reach me **yher25@gmail.com**
 
