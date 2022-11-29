@@ -2,11 +2,11 @@
 
 - 💻 [My Website](https://weiyun0912.github.io/Wei-Docusaurus/)
 
-- 🔭 I’m currently working on [SmartContract Tutorial](https://github.com/WeiYun0912/SmartContracts)
+- 🔭 I’m currently working on [my website](https://weiyun0912.github.io/Wei-Docusaurus/)
 
-- 🌱 I’m currently learning **Blockchain Tech**
+- 🌱 I’m currently learning **web technology**
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@weiyun0912) and [my website](https://weiyun0912.github.io/Wei-Docusaurus/docs/intro)
+- 📝 I regularly write articles on [my website](https://weiyun0912.github.io/Wei-Docusaurus/docs/intro) and [Medium](https://medium.com/@weiyun0912)
 
 - 📫 How to reach me **yher25@gmail.com**
 
