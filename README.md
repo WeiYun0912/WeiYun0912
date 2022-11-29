@@ -2,6 +2,8 @@
 
 - 💻 [My Website](https://weiyun0912.github.io/Wei-Docusaurus/)
 
+- 🎥 [My Youtube Channel](https://www.youtube.com/channel/UCy1Q33r6POsxGTtZcOF--Fw)
+
 - 🔭 I’m currently working on [my website](https://weiyun0912.github.io/Wei-Docusaurus/)
 
 - 🌱 I’m currently learning **web technology**
