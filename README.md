@@ -89,11 +89,11 @@
 <h2 align="center">📺 Latest YouTube Videos:</h2>
 
 <!-- YOUTUBE:START -->
+- [如何裝飾 Github 主頁面以及工具和 API 介紹 &lpar;Github Readme &amp; Github Actions&rpar;](https://www.youtube.com/watch?v=JQMjMrrQ2as)
 - [React教學 - useState 常犯的錯誤與小技巧 &lpar;useState Tips&rpar;](https://www.youtube.com/watch?v=heMEYoFUYD0)
 - [React教學 - useEffect cleanup 及 React 18 與 React 17 之 useEffect 比較 &lpar;為何 18 版的 useEffect 程式碼會執行兩次&rpar;](https://www.youtube.com/watch?v=sQio-tk6wCI)
 - [React教學 - 你也曾發生過畫面閃爍的問題嗎? &lpar;useLayoutEffect、useInsertionEffect&rpar;](https://www.youtube.com/watch?v=9fsxLnWeNl0)
 - [React教學 - 使用 useContext 與 useReducer 管理 state &lpar;Todolist&rpar;](https://www.youtube.com/watch?v=mU_kaUftxFA)
-- [React教學 - 使用 useReducer Hook 實作 Todolist](https://www.youtube.com/watch?v=BKuTd_3zA1E)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/123123960)
