@@ -88,6 +88,12 @@
 
 <h2 align="center">📺 Latest YouTube Videos:</h2>
 
+<div align="center">
+
+[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>]([https://www.youtube.com/c/AlwinJohn?sub_confirmation=1](https://www.youtube.com/channel/UCy1Q33r6POsxGTtZcOF--Fw?sub_confirmation=1))
+
+</div>
+
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=JQMjMrrQ2as"><img width="140px" src="https://i.ytimg.com/vi/JQMjMrrQ2as/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JQMjMrrQ2as">如何裝飾 Github 主頁面以及工具和 API 介紹 &lpar;Github Readme &amp; Github Actions&rpar;</a><br/>Dec 4, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=heMEYoFUYD0"><img width="140px" src="https://i.ytimg.com/vi/heMEYoFUYD0/mqdefault.jpg"></a></td>
