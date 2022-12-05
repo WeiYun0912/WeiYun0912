@@ -90,7 +90,7 @@
 
 <div align="center">
 
-[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>]([(https://www.youtube.com/channel/UCy1Q33r6POsxGTtZcOF--Fw?sub_confirmation=1)])
+[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>]([https://www.youtube.com/channel/UCy1Q33r6POsxGTtZcOF--Fw?sub_confirmation=1])
 
 </div>
 
