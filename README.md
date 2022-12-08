@@ -94,7 +94,9 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=eKmHjuhXGPs"><img width="140px" src="https://i.ytimg.com/vi/eKmHjuhXGPs/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Df_ht-WDZXM"><img width="140px" src="https://i.ytimg.com/vi/Df_ht-WDZXM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Df_ht-WDZXM">MongoDB教學 - Mongoose 介紹與使用 &lpar;2/2&rpar;</a><br/>Dec 8, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=eKmHjuhXGPs"><img width="140px" src="https://i.ytimg.com/vi/eKmHjuhXGPs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=eKmHjuhXGPs">MongoDB教學 - Mongoose 介紹與使用 &lpar;1/2&rpar;</a><br/>Dec 8, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=JQMjMrrQ2as"><img width="140px" src="https://i.ytimg.com/vi/JQMjMrrQ2as/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JQMjMrrQ2as">如何裝飾 Github 主頁面以及工具和 API 介紹 &lpar;Github Readme &amp; Github Actions&rpar;</a><br/>Dec 4, 2022</td></tr></table>
@@ -102,8 +104,6 @@
 <td><a href="https://www.youtube.com/watch?v=heMEYoFUYD0">React教學 - useState 常犯的錯誤與小技巧 &lpar;useState Tips&rpar;</a><br/>Nov 28, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=sQio-tk6wCI"><img width="140px" src="https://i.ytimg.com/vi/sQio-tk6wCI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sQio-tk6wCI">React教學 - useEffect cleanup 及 React 18 與 React 17 之 useEffect 比較 &lpar;為何 18 版的 useEffect 程式碼會執行兩次&rpar;</a><br/>Nov 25, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=9fsxLnWeNl0"><img width="140px" src="https://i.ytimg.com/vi/9fsxLnWeNl0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=9fsxLnWeNl0">React教學 - 你也曾發生過畫面閃爍的問題嗎? &lpar;useLayoutEffect、useInsertionEffect&rpar;</a><br/>Nov 23, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/123123960)
