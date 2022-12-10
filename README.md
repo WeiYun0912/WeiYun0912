@@ -159,7 +159,7 @@
 
 <h2 align="center">🏆 My Github Trophy:</h2>
 <p align="center">
-  <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=weiyun0912&theme=darkhub&title=MultiLanguage,Commits,Repositories,Stars,PullRequest&row=2&column=3&margin-w=10&margin-h=10" />
+  <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=weiyun0912&theme=darkhub&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest&row=2&column=3&margin-w=10&margin-h=10" />
 </p>
 
 <h2 align="center">⭐️ My Github Streak Stats:</h2>
