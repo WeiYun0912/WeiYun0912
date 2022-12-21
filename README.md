@@ -94,7 +94,9 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=3mB34xQwnQw"><img width="140px" src="https://i.ytimg.com/vi/3mB34xQwnQw/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2ITjyeNFFuo"><img width="140px" src="https://i.ytimg.com/vi/2ITjyeNFFuo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=2ITjyeNFFuo">React教學 - 使用 React Query 取得 API 資料 &lpar;機制介紹、實用功能介紹&rpar;</a><br/>Dec 21, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=3mB34xQwnQw"><img width="140px" src="https://i.ytimg.com/vi/3mB34xQwnQw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3mB34xQwnQw">React教學 &lpar;補充 編輯 Todo 文字&rpar; - 使用 useContext 與 useReducer 管理 state &lpar;Todolist&rpar;</a><br/>Dec 19, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=8ZlzUqXf6_4"><img width="140px" src="https://i.ytimg.com/vi/8ZlzUqXf6_4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8ZlzUqXf6_4">使用 HackMD 管理並撰寫筆記 &lpar;Markdown, CSS, Excel 表格, 標籤分類, 書本模式&rpar;</a><br/>Dec 13, 2022</td></tr></table>
@@ -102,8 +104,6 @@
 <td><a href="https://www.youtube.com/watch?v=Df_ht-WDZXM">MongoDB教學 - Mongoose 介紹與使用 &lpar;2/2&rpar;</a><br/>Dec 8, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=eKmHjuhXGPs"><img width="140px" src="https://i.ytimg.com/vi/eKmHjuhXGPs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=eKmHjuhXGPs">MongoDB教學 - Mongoose 介紹與使用 &lpar;1/2&rpar;</a><br/>Dec 8, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=JQMjMrrQ2as"><img width="140px" src="https://i.ytimg.com/vi/JQMjMrrQ2as/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=JQMjMrrQ2as">如何裝飾 Github 主頁面以及工具和 API 介紹 &lpar;Github Readme &amp; Github Actions&rpar;</a><br/>Dec 4, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/123123960)
