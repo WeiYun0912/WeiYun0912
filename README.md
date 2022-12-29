@@ -174,7 +174,7 @@
   <summary>📋 Recent GitHub Activities </summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/WeiYun0912/Hardhat-Tasks/issues/1) in [WeiYun0912/Hardhat-Tasks](https://github.com/WeiYun0912/Hardhat-Tasks)
+1. ❗️ Reopened issue [#1](https://github.com/WeiYun0912/pokemon-scarlet-and-violet-ev-list/issues/1) in [WeiYun0912/pokemon-scarlet-and-violet-ev-list](https://github.com/WeiYun0912/pokemon-scarlet-and-violet-ev-list)
 <!--END_SECTION:activity-->
 
 </details>
