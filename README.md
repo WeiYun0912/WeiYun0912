@@ -168,11 +168,10 @@
 </p>
 
 <h2 align="center">⭐️ My Github Stats:</h2>
-<p>
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=weiyun0912&show_icons=true&theme=dracula&hide=issues&hide_border=true" />
+<p align="center">
+<img  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=weiyun0912&show_icons=true&theme=dracula&hide=issues&hide_border=true" />
+</p>
 
-<br>
-  
 <!--START_SECTION:activity-->
 1. ❗️ Reopened issue [#1](https://github.com/WeiYun0912/pokemon-scarlet-and-violet-ev-list/issues/1) in [WeiYun0912/pokemon-scarlet-and-violet-ev-list](https://github.com/WeiYun0912/pokemon-scarlet-and-violet-ev-list)
 2. 🗣 Commented on [#1](https://github.com/WeiYun0912/pokemon-scarlet-and-violet-ev-list/issues/1) in [WeiYun0912/pokemon-scarlet-and-violet-ev-list](https://github.com/WeiYun0912/pokemon-scarlet-and-violet-ev-list)
@@ -180,5 +179,4 @@
 4. 🗣 Commented on [#1](https://github.com/WeiYun0912/pokemon-scarlet-and-violet-ev-list/issues/1) in [WeiYun0912/pokemon-scarlet-and-violet-ev-list](https://github.com/WeiYun0912/pokemon-scarlet-and-violet-ev-list)
 5. 🗣 Commented on [#1](https://github.com/WeiYun0912/pokemon-scarlet-and-violet-ev-list/issues/1) in [WeiYun0912/pokemon-scarlet-and-violet-ev-list](https://github.com/WeiYun0912/pokemon-scarlet-and-violet-ev-list)
 <!--END_SECTION:activity-->
-  
-</p>
+
