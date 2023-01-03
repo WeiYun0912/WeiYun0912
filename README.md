@@ -94,7 +94,9 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=gV07Tqi0i_o"><img width="140px" src="https://i.ytimg.com/vi/gV07Tqi0i_o/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=S69LZK3-Z5E"><img width="140px" src="https://i.ytimg.com/vi/S69LZK3-Z5E/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=S69LZK3-Z5E">React教學 - React Router v6.4 簡易介紹 &lpar;RouterProvider、createBrowserRouter、useLoaderData、errorElement&rpar;</a><br/>Jan 3, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=gV07Tqi0i_o"><img width="140px" src="https://i.ytimg.com/vi/gV07Tqi0i_o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gV07Tqi0i_o">React教學 - React Router v6 介紹 &lpar;Link、NavLink、Nested Routes、Outlet、useLocation、useRoutes、useNavigate&rpar;</a><br/>Dec 24, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=2ITjyeNFFuo"><img width="140px" src="https://i.ytimg.com/vi/2ITjyeNFFuo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2ITjyeNFFuo">React教學 - 使用 React Query 取得 API 資料 &lpar;機制介紹、實用功能介紹&rpar;</a><br/>Dec 21, 2022</td></tr></table>
@@ -102,8 +104,6 @@
 <td><a href="https://www.youtube.com/watch?v=3mB34xQwnQw">React教學 &lpar;補充 編輯 Todo 文字&rpar; - 使用 useContext 與 useReducer 管理 state &lpar;Todolist&rpar;</a><br/>Dec 19, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=8ZlzUqXf6_4"><img width="140px" src="https://i.ytimg.com/vi/8ZlzUqXf6_4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8ZlzUqXf6_4">使用 HackMD 管理並撰寫筆記 &lpar;Markdown, CSS, Excel 表格, 標籤分類, 書本模式&rpar;</a><br/>Dec 13, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Df_ht-WDZXM"><img width="140px" src="https://i.ytimg.com/vi/Df_ht-WDZXM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Df_ht-WDZXM">MongoDB教學 - Mongoose 介紹與使用 &lpar;2/2&rpar;</a><br/>Dec 8, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/123123960)
