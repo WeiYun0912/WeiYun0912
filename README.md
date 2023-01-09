@@ -94,7 +94,9 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mAbz2tVZKMU"><img width="140px" src="https://i.ytimg.com/vi/mAbz2tVZKMU/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=PJuHMAWIhEQ"><img width="140px" src="https://i.ytimg.com/vi/PJuHMAWIhEQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=PJuHMAWIhEQ">使用 Quokka VS Code Extension 提高你使用 JavaScript 解題的效率 &lpar;以 LeetCode 為例&rpar;</a><br/>Jan 9, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=mAbz2tVZKMU"><img width="140px" src="https://i.ytimg.com/vi/mAbz2tVZKMU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mAbz2tVZKMU">如何託管及部署你的前後端應用程式 &lpar;React、Node.js Express、GraphQL&rpar; &lpar;Github Page、Cyclic.sh、Render&rpar;</a><br/>Jan 5, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=S69LZK3-Z5E"><img width="140px" src="https://i.ytimg.com/vi/S69LZK3-Z5E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=S69LZK3-Z5E">React教學 - React Router v6.4 簡易介紹 &lpar;RouterProvider、createBrowserRouter、useLoaderData、errorElement&rpar;</a><br/>Jan 3, 2023</td></tr></table>
@@ -102,8 +104,6 @@
 <td><a href="https://www.youtube.com/watch?v=gV07Tqi0i_o">React教學 - React Router v6 介紹 &lpar;Link、NavLink、Nested Routes、Outlet、useLocation、useRoutes、useNavigate&rpar;</a><br/>Dec 24, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=2ITjyeNFFuo"><img width="140px" src="https://i.ytimg.com/vi/2ITjyeNFFuo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2ITjyeNFFuo">React教學 - 使用 React Query 取得 API 資料 &lpar;機制介紹、實用功能介紹&rpar;</a><br/>Dec 21, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=3mB34xQwnQw"><img width="140px" src="https://i.ytimg.com/vi/3mB34xQwnQw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=3mB34xQwnQw">React教學 &lpar;補充 編輯 Todo 文字&rpar; - 使用 useContext 與 useReducer 管理 state &lpar;Todolist&rpar;</a><br/>Dec 19, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/123123960)
