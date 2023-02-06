@@ -94,7 +94,9 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-OfJ9igUubo"><img width="140px" src="https://i.ytimg.com/vi/-OfJ9igUubo/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=smSZ4spzcrw"><img width="140px" src="https://i.ytimg.com/vi/smSZ4spzcrw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=smSZ4spzcrw">JavaScript - For Loop 常見的面試問題 &lpar;call stack, web apis, callback queue&rpar;</a><br/>Feb 6, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=-OfJ9igUubo"><img width="140px" src="https://i.ytimg.com/vi/-OfJ9igUubo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-OfJ9igUubo">React教學 - 不要把 index 當成 list key 來使用 &lpar;react lists and keys&rpar;</a><br/>Feb 4, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=uH-UP7sksSQ"><img width="140px" src="https://i.ytimg.com/vi/uH-UP7sksSQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=uH-UP7sksSQ">React教學 - JSX In Depth &lpar;深入了解 JSX&rpar;</a><br/>Jan 30, 2023</td></tr></table>
@@ -102,8 +104,6 @@
 <td><a href="https://www.youtube.com/watch?v=0eAytE-AcrA">VS Code Emmet 教學 &lpar;User Snippets&rpar;</a><br/>Jan 23, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Q4vds8fpB98"><img width="140px" src="https://i.ytimg.com/vi/Q4vds8fpB98/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Q4vds8fpB98">React教學 - 如何有效率地渲染大量資料到畫面上 &lpar;React-Window, Render Large Data, Windowing&rpar;</a><br/>Jan 15, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=PJuHMAWIhEQ"><img width="140px" src="https://i.ytimg.com/vi/PJuHMAWIhEQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=PJuHMAWIhEQ">使用 Quokka VS Code Extension 提高你使用 JavaScript 解題的效率 &lpar;以 LeetCode 為例&rpar;</a><br/>Jan 9, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/123123960)
