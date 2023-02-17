@@ -94,7 +94,9 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vCLobXMROZg"><img width="140px" src="https://i.ytimg.com/vi/vCLobXMROZg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=IU83Qjax1AI"><img width="140px" src="https://i.ytimg.com/vi/IU83Qjax1AI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=IU83Qjax1AI">JavaScript - Throttle &lpar;節流&rpar; 常見的面試問題 &lpar;Scrollbar, Infinite Scroll&rpar; &lpar;前端優化&rpar;</a><br/>Feb 17, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=vCLobXMROZg"><img width="140px" src="https://i.ytimg.com/vi/vCLobXMROZg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vCLobXMROZg">JavaScript - Debounce &lpar;防抖&rpar; 常見的面試問題 &lpar;Search Bar, API Request&rpar; &lpar;前端優化&rpar;</a><br/>Feb 16, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=smSZ4spzcrw"><img width="140px" src="https://i.ytimg.com/vi/smSZ4spzcrw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=smSZ4spzcrw">JavaScript - For Loop 常見的面試問題 &lpar;call stack, web apis, callback queue&rpar;</a><br/>Feb 6, 2023</td></tr></table>
@@ -102,8 +104,6 @@
 <td><a href="https://www.youtube.com/watch?v=-OfJ9igUubo">React教學 - 不要把 index 當成 list key 來使用 &lpar;react lists and keys&rpar;</a><br/>Feb 4, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=uH-UP7sksSQ"><img width="140px" src="https://i.ytimg.com/vi/uH-UP7sksSQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=uH-UP7sksSQ">React教學 - JSX In Depth &lpar;深入了解 JSX&rpar;</a><br/>Jan 30, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=0eAytE-AcrA"><img width="140px" src="https://i.ytimg.com/vi/0eAytE-AcrA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0eAytE-AcrA">VS Code Emmet 教學 &lpar;User Snippets&rpar;</a><br/>Jan 23, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/123123960)
