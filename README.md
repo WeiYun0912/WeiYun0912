@@ -18,6 +18,7 @@
 
 - [ ] CSS Grid
 - [ ] tRPC
+- [ ] TypeScript + ZOD
 - [ ] TypeScript + React
 - [ ] NextJS
 - [ ] Unit Test
