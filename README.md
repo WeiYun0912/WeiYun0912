@@ -14,7 +14,13 @@
 
 - 📓 CakeResume：https://www.cakeresume.com/wei-wei-e8a62e
   
-
+<h2 align="center">📓 Todo </h2>  
+- [] CSS Grid
+- [] tRPC
+- [] TypeScript + React
+- [] NextJS
+- [] Unit Test
+- [] LeetCode
   
 <h2 align="center">📓 Things I Have Ever Learned </h2>  
 <p>
