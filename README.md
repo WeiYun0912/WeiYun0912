@@ -117,7 +117,7 @@
 
 ➡️ [more videos...](https://youtube.com/123123960)
 
-<h2 align="center">📕 Latest Blog Posts:</h2>
+<h2 align="center">📕 Medium Post Latest Posts:</h2>
 
 <!-- BLOG-POST-LIST:START -->
 - [MongoDB — Mongoose 介紹與使用教學 &lpar;下&rpar;](https://medium.com/@weiyun0912/mongodb-mongoose-%E4%BB%8B%E7%B4%B9%E8%88%87%E4%BD%BF%E7%94%A8%E6%95%99%E5%AD%B8-%E4%B8%8B-ace1d8307685?source=rss-d8aa3754f97a------2)
@@ -128,6 +128,11 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more posts...](https://medium.com/@weiyun0912)
+
+<h2 align="center">📕 My Blog Latest Posts:</h2>
+
+<!-- UPDATE_WEISITE:START -->
+<!-- UPDATE_WEISITE:END -->
 
 <h2 align="center">🏅 Extracurricular Activities:</h2>
 <p align="center">
