@@ -134,6 +134,8 @@
 <!-- UPDATE_WEISITE:START -->
 <!-- UPDATE_WEISITE:END -->
 
+➡️ [more posts...](https://weiyun0912.github.io/Wei-Docusaurus/docs/intro)
+
 <h2 align="center">🏅 Extracurricular Activities:</h2>
 <p align="center">
   <a href="https://www.facebook.com/moeaidb/posts/1127813564049448/">2018亞洲跨國際黑克松 入圍台灣前五名 獎金：$73,000</a>
