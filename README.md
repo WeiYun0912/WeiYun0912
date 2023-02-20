@@ -22,7 +22,7 @@
 - [ ] TypeScript + React
 - [ ] NextJS
 - [ ] Unit Test
-- [ ] Github Action Auto Update README.md
+- [x] Github Action Auto Update README.md
 - [ ] LeetCode
   
 <h2 align="center">📓 Things I Have Ever Learned </h2>  
