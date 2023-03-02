@@ -21,9 +21,9 @@
 - [ ] TypeScript + ZOD
 - [ ] TypeScript + React
 - [ ] NextJS
-- [ ] Unit Test
+- [ ] Cypress E2E Test
 - [x] Github Action Auto Update README.md
-- [ ] LeetCode
+- [x] LeetCode
   
 <h2 align="center">📓 Things I Have Ever Learned </h2>  
 <p>
