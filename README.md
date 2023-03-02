@@ -16,7 +16,7 @@
   
 <h2 align="center">📓 Todo </h2>  
 
-- [ ] CSS Grid
+- [x] CSS Grid
 - [ ] tRPC
 - [ ] TypeScript + ZOD
 - [ ] TypeScript + React
