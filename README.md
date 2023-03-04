@@ -22,6 +22,7 @@
 - [ ] TypeScript + React
 - [ ] NextJS
 - [ ] Cypress E2E Test
+- [ ] Tailwind CSS 
 - [x] Github Action Auto Update README.md
 - [x] LeetCode
   
