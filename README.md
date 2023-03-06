@@ -17,15 +17,15 @@
 <h2 align="center">📓 Todo </h2>  
 
 - [x] CSS Grid
-- [ ] tRPC
+- [x] tRPC
 - [ ] TypeScript + ZOD
 - [ ] TypeScript + React
 - [ ] NextJS
 - [ ] Cypress E2E Test
 - [ ] Tailwind CSS 
+- [x] 3D Portfolio
 - [x] Github Action Auto Update README.md
-- [x] LeetCode
-  
+
 <h2 align="center">📓 Things I Have Ever Learned </h2>  
 <p>
    <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
