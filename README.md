@@ -105,7 +105,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：653 | 影片總數：92</h3></div>
+<div align="center"><h3>訂閱人數：652 | 影片總數：92</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=j1ijO_HVMM8"><img width="140px" src="https://i.ytimg.com/vi/j1ijO_HVMM8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=j1ijO_HVMM8">React教學 - 如何使用 EmailJS 發送信件並客製化信件內容 &lpar;React + EmailJS&rpar;</a><br/>Mar 7, 2023</td></tr></table>
