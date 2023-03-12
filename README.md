@@ -105,7 +105,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：656 | 影片總數：92</h3></div>
+<div align="center"><h3>訂閱人數：656 | 影片總數：93</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=7vjmzWmKelc"><img width="140px" src="https://i.ytimg.com/vi/7vjmzWmKelc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7vjmzWmKelc">前端自學從何開始? 前端自學資源分享 &lpar;前端自學&rpar;</a><br/>Mar 12, 2023</td></tr></table>
