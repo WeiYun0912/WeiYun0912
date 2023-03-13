@@ -124,11 +124,11 @@
 <h2 align="center">📕 Medium Post Latest Posts:</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [React 常用的 JavaScript 語法 — 物件](https://medium.com/@weiyun0912/react-%E5%B8%B8%E7%94%A8%E7%9A%84-javascript-%E8%AA%9E%E6%B3%95-%E7%89%A9%E4%BB%B6-d07b322da098?source=rss-d8aa3754f97a------2)
+- [React 常用的 JavaScript 語法 — 可選鏈](https://medium.com/@weiyun0912/react-%E5%B8%B8%E7%94%A8%E7%9A%84-javascript-%E8%AA%9E%E6%B3%95-%E5%8F%AF%E9%81%B8%E9%8F%88-15bc3662eb86?source=rss-d8aa3754f97a------2)
 - [React 常用的 JavaScript 語法 — 樣板字串](https://medium.com/@weiyun0912/react-%E5%B8%B8%E7%94%A8%E7%9A%84-javascript-%E8%AA%9E%E6%B3%95-%E6%A8%A3%E6%9D%BF%E5%AD%97%E4%B8%B2-1782258995c8?source=rss-d8aa3754f97a------2)
 - [React 常用的 JavaScript 語法 — 三元運算子](https://medium.com/@weiyun0912/react-%E5%B8%B8%E7%94%A8%E7%9A%84-javascript-%E8%AA%9E%E6%B3%95-%E4%B8%89%E5%85%83%E9%81%8B%E7%AE%97%E5%AD%90-4624af1548f1?source=rss-d8aa3754f97a------2)
 - [React 常用的 JavaScript 語法 — 箭頭函式](https://medium.com/@weiyun0912/react-%E5%B8%B8%E7%94%A8%E7%9A%84-javascript-%E8%AA%9E%E6%B3%95-%E7%AE%AD%E9%A0%AD%E5%87%BD%E5%BC%8F-fa4bcf7d5f96?source=rss-d8aa3754f97a------2)
-- [React Router DOM v6.4 詳細介紹](https://medium.com/@weiyun0912/react-router-dom-v6-4-%E8%A9%B3%E7%B4%B0%E4%BB%8B%E7%B4%B9-ee1b5c67e759?source=rss-d8aa3754f97a------2)
-- [React 使用 RTK Query 來獲取 API 資料](https://medium.com/@weiyun0912/react-%E4%BD%BF%E7%94%A8-rtk-query-%E4%BE%86%E7%8D%B2%E5%8F%96-api-%E8%B3%87%E6%96%99-c81477244b78?source=rss-d8aa3754f97a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more posts...](https://medium.com/@weiyun0912)
