@@ -124,11 +124,11 @@
 <h2 align="center">📕 Medium Post Latest Posts:</h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [React Router DOM v6 詳細介紹](https://medium.com/@weiyun0912/react-router-dom-v6-%E8%A9%B3%E7%B4%B0%E4%BB%8B%E7%B4%B9-353136ff5043?source=rss-d8aa3754f97a------2)
-- [使用 React Slick 套件製作輪播效果 &lpar;Carousel&rpar;](https://medium.com/@weiyun0912/%E4%BD%BF%E7%94%A8-react-slick-%E5%A5%97%E4%BB%B6%E8%A3%BD%E4%BD%9C%E8%BC%AA%E6%92%AD%E6%95%88%E6%9E%9C-carousel-68b52580ca61?source=rss-d8aa3754f97a------2)
-- [React 使用 Google 帳號登入網站 &lpar;Firebase&rpar;](https://medium.com/@weiyun0912/react-%E4%BD%BF%E7%94%A8-google-%E5%B8%B3%E8%99%9F%E7%99%BB%E5%85%A5%E7%B6%B2%E7%AB%99-firebase-37427330f2bb?source=rss-d8aa3754f97a------2)
-- [React Protected Routes 介紹與使用](https://medium.com/@weiyun0912/react-protected-routes-%E4%BB%8B%E7%B4%B9%E8%88%87%E4%BD%BF%E7%94%A8-ed90ac88f9ea?source=rss-d8aa3754f97a------2)
-- [React Icons 介紹與使用](https://medium.com/@weiyun0912/react-icons-%E4%BB%8B%E7%B4%B9%E8%88%87%E4%BD%BF%E7%94%A8-e14eb72cae6f?source=rss-d8aa3754f97a------2)
+- [React 常用的 JavaScript 語法 — 樣板字串](https://medium.com/@weiyun0912/react-%E5%B8%B8%E7%94%A8%E7%9A%84-javascript-%E8%AA%9E%E6%B3%95-%E6%A8%A3%E6%9D%BF%E5%AD%97%E4%B8%B2-1782258995c8?source=rss-d8aa3754f97a------2)
+- [React 常用的 JavaScript 語法 — 三元運算子](https://medium.com/@weiyun0912/react-%E5%B8%B8%E7%94%A8%E7%9A%84-javascript-%E8%AA%9E%E6%B3%95-%E4%B8%89%E5%85%83%E9%81%8B%E7%AE%97%E5%AD%90-4624af1548f1?source=rss-d8aa3754f97a------2)
+- [React 常用的 JavaScript 語法 — 箭頭函式](https://medium.com/@weiyun0912/react-%E5%B8%B8%E7%94%A8%E7%9A%84-javascript-%E8%AA%9E%E6%B3%95-%E7%AE%AD%E9%A0%AD%E5%87%BD%E5%BC%8F-fa4bcf7d5f96?source=rss-d8aa3754f97a------2)
+- [React Router DOM v6.4 詳細介紹](https://medium.com/@weiyun0912/react-router-dom-v6-4-%E8%A9%B3%E7%B4%B0%E4%BB%8B%E7%B4%B9-ee1b5c67e759?source=rss-d8aa3754f97a------2)
+- [React 使用 RTK Query 來獲取 API 資料](https://medium.com/@weiyun0912/react-%E4%BD%BF%E7%94%A8-rtk-query-%E4%BE%86%E7%8D%B2%E5%8F%96-api-%E8%B3%87%E6%96%99-c81477244b78?source=rss-d8aa3754f97a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more posts...](https://medium.com/@weiyun0912)
