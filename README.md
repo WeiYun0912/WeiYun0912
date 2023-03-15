@@ -18,9 +18,9 @@
 
 - [x] CSS Grid
 - [x] tRPC
+- [ ] TypeScript
 - [ ] TypeScript + ZOD
 - [ ] TypeScript + React
-- [ ] NextJS
 - [ ] Cypress E2E Test
 - [ ] Tailwind CSS 
 - [x] 3D Portfolio
