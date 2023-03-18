@@ -18,11 +18,12 @@
 
 - [x] CSS Grid
 - [x] tRPC
-- [ ] TypeScript
+- [x] TypeScript
+- [ ] React Native Rapid API
+- [ ] Tailwind CSS 
 - [ ] TypeScript + ZOD
 - [ ] TypeScript + React
 - [ ] Cypress E2E Test
-- [ ] Tailwind CSS 
 - [x] 3D Portfolio
 - [x] Github Action Auto Update README.md
 
