@@ -19,7 +19,7 @@
 - [x] CSS Grid
 - [x] tRPC
 - [x] TypeScript
-- [ ] React Native Rapid API
+- [x] React Native Rapid API
 - [ ] React PropTypes
 - [ ] Tailwind CSS 
 - [ ] TypeScript + ZOD
