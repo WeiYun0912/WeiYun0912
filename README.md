@@ -20,6 +20,7 @@
 - [x] tRPC
 - [x] TypeScript
 - [ ] React Native Rapid API
+- [ ] React PropTypes
 - [ ] Tailwind CSS 
 - [ ] TypeScript + ZOD
 - [ ] TypeScript + React
