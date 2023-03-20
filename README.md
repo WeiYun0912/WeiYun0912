@@ -20,7 +20,7 @@
 - [x] tRPC
 - [x] TypeScript
 - [x] React Native Rapid API
-- [ ] Tailwind CSS 
+- [x] Tailwind CSS 
 - [ ] TypeScript + ZOD
 - [ ] TypeScript + React
 - [ ] Cypress E2E Test
