@@ -21,7 +21,7 @@
 - [x] TypeScript
 - [x] React Native Rapid API
 - [x] Tailwind CSS 
-- [ ] TypeScript + ZOD
+- [x] TypeScript + ZOD
 - [ ] TypeScript + React
 - [ ] Cypress E2E Test
 - [x] 3D Portfolio
