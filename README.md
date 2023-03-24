@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Chun Wei Yeh <br><br> <img src="https://komarev.com/ghpvc/?username=weiyun0912&style=for-the-badge"> </h1>
 
-- 💻 [My Website](https://weiyun0912.github.io/Wei-Docusaurus/)
+- 💻 [My Website](https://wei-docusaurus-vercel.vercel.app)
 
 - 🎥 [My Youtube Channel](https://www.youtube.com/channel/UCy1Q33r6POsxGTtZcOF--Fw)
 
-- 🔭 I’m currently working on [my website](https://weiyun0912.github.io/Wei-Docusaurus/)
+- 🔭 I’m currently working on [my website](https://wei-docusaurus-vercel.vercel.app)
 
 - 🌱 I’m currently learning **web technology**
 
-- 📝 I regularly write articles on [my website](https://weiyun0912.github.io/Wei-Docusaurus/docs/intro) and [medium post](https://medium.com/@weiyun0912)
+- 📝 I regularly write articles on [my website](https://wei-docusaurus-vercel.vercel.app/docs/intro) and [medium post](https://medium.com/@weiyun0912)
 
 - 📫 How to reach me **yher25@gmail.com**
 
