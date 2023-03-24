@@ -147,7 +147,7 @@
 - 2022-11-12：新增 React Slick 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/React/Package/React-Slick)
 <!-- UPDATE_WEISITE:END -->
 
-➡️ [more posts...](https://weiyun0912.github.io/Wei-Docusaurus/docs/intro)
+➡️ [more posts...](https://wei-docusaurus-vercel.vercel.app/docs/intro)
 
 <h2 align="center">🏅 Extracurricular Activities:</h2>
 <p align="center">
