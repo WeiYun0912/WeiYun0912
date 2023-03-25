@@ -106,7 +106,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：699 | 影片總數：94</h3></div>
+<div align="center"><h3>訂閱人數：702 | 影片總數：94</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=fz77TeUTkPE"><img width="140px" src="https://i.ytimg.com/vi/fz77TeUTkPE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=fz77TeUTkPE">使用 Vercel 部署前端與後端專案 &lpar;React, NodeJS API Service&rpar;</a><br/>Mar 23, 2023</td></tr></table>
