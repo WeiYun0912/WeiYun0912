@@ -205,10 +205,10 @@
 <h2 align="center">👣 My Github Activity:</h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/WeiYun0912/pokemon-scarlet-and-violet-ev-list/issues/1) in [WeiYun0912/pokemon-scarlet-and-violet-ev-list](https://github.com/WeiYun0912/pokemon-scarlet-and-violet-ev-list)
-2. ❗️ Reopened issue [#1](https://github.com/WeiYun0912/pokemon-scarlet-and-violet-ev-list/issues/1) in [WeiYun0912/pokemon-scarlet-and-violet-ev-list](https://github.com/WeiYun0912/pokemon-scarlet-and-violet-ev-list)
-3. 🗣 Commented on [#1](https://github.com/WeiYun0912/pokemon-scarlet-and-violet-ev-list/issues/1) in [WeiYun0912/pokemon-scarlet-and-violet-ev-list](https://github.com/WeiYun0912/pokemon-scarlet-and-violet-ev-list)
-4. ❗️ Closed issue [#1](https://github.com/WeiYun0912/pokemon-scarlet-and-violet-ev-list/issues/1) in [WeiYun0912/pokemon-scarlet-and-violet-ev-list](https://github.com/WeiYun0912/pokemon-scarlet-and-violet-ev-list)
-5. 🗣 Commented on [#1](https://github.com/WeiYun0912/pokemon-scarlet-and-violet-ev-list/issues/1) in [WeiYun0912/pokemon-scarlet-and-violet-ev-list](https://github.com/WeiYun0912/pokemon-scarlet-and-violet-ev-list)
+1. ❌ Closed PR [#1](https://github.com/WeiYun0912/react-ts-learning/pull/1) in [WeiYun0912/react-ts-learning](https://github.com/WeiYun0912/react-ts-learning)
+2. ❌ Closed PR [#2](https://github.com/WeiYun0912/react-ts-learning/pull/2) in [WeiYun0912/react-ts-learning](https://github.com/WeiYun0912/react-ts-learning)
+3. ❌ Closed PR [#3](https://github.com/WeiYun0912/react-ts-learning/pull/3) in [WeiYun0912/react-ts-learning](https://github.com/WeiYun0912/react-ts-learning)
+4. 💪 Opened PR [#3](https://github.com/WeiYun0912/react-ts-learning/pull/3) in [WeiYun0912/react-ts-learning](https://github.com/WeiYun0912/react-ts-learning)
+5. 💪 Opened PR [#2](https://github.com/WeiYun0912/react-ts-learning/pull/2) in [WeiYun0912/react-ts-learning](https://github.com/WeiYun0912/react-ts-learning)
 <!--END_SECTION:activity-->
 
