@@ -106,7 +106,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：723 | 影片總數：95</h3></div>
+<div align="center"><h3>訂閱人數：725 | 影片總數：95</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=NpoaHl380DM"><img width="140px" src="https://i.ytimg.com/vi/NpoaHl380DM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NpoaHl380DM">使用 Docusaurus 開發個人網站 &lpar;Docusaurus, React, Vercel&rpar;</a><br/>Mar 27, 2023</td></tr></table>
