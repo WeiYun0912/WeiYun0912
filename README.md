@@ -106,7 +106,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：754 | 影片總數：96</h3></div>
+<div align="center"><h3>訂閱人數：756 | 影片總數：96</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=aDb3FSX6XKU"><img width="140px" src="https://i.ytimg.com/vi/aDb3FSX6XKU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aDb3FSX6XKU">TypeScript - 使用 ZOD 進行型別驗證 &lpar;Schema Validation&rpar;</a><br/>Apr 7, 2023</td></tr></table>
