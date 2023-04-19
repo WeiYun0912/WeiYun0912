@@ -108,7 +108,9 @@
 <!-- UPDATE_YOUTUBE:START -->
 <div align="center"><h3>訂閱人數：788 | 影片總數：97</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=aDb3FSX6XKU"><img width="140px" src="https://i.ytimg.com/vi/aDb3FSX6XKU/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=uvL3HRYZwfk"><img width="140px" src="https://i.ytimg.com/vi/uvL3HRYZwfk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=uvL3HRYZwfk">React教學 - 使用 ZOD 進行表單驗證 &lpar;React-Hook-Form、Formik、ZOD&rpar;</a><br/>Apr 19, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=aDb3FSX6XKU"><img width="140px" src="https://i.ytimg.com/vi/aDb3FSX6XKU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aDb3FSX6XKU">TypeScript - 使用 ZOD 進行型別驗證 &lpar;TypeScript ZOD, Schema Validation&rpar;</a><br/>Apr 7, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=NpoaHl380DM"><img width="140px" src="https://i.ytimg.com/vi/NpoaHl380DM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NpoaHl380DM">使用 Docusaurus 開發個人網站 &lpar;Docusaurus, React, Vercel&rpar;</a><br/>Mar 27, 2023</td></tr></table>
@@ -116,8 +118,6 @@
 <td><a href="https://www.youtube.com/watch?v=fz77TeUTkPE">使用 Vercel 部署前端與後端專案 &lpar;React, NodeJS API Service&rpar;</a><br/>Mar 23, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=7vjmzWmKelc"><img width="140px" src="https://i.ytimg.com/vi/7vjmzWmKelc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7vjmzWmKelc">前端自學從何開始? 前端自學資源分享 &lpar;前端自學&rpar;</a><br/>Mar 12, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=j1ijO_HVMM8"><img width="140px" src="https://i.ytimg.com/vi/j1ijO_HVMM8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=j1ijO_HVMM8">React教學 - 如何使用 EmailJS 發送信件並客製化信件內容 &lpar;React + EmailJS&rpar;</a><br/>Mar 7, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/123123960)
