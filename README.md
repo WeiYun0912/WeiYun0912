@@ -106,7 +106,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：793 | 影片總數：97</h3></div>
+<div align="center"><h3>訂閱人數：794 | 影片總數：97</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=uvL3HRYZwfk"><img width="140px" src="https://i.ytimg.com/vi/uvL3HRYZwfk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=uvL3HRYZwfk">React教學 - 使用 ZOD 進行表單驗證 &lpar;React-Hook-Form、Formik、ZOD&rpar;</a><br/>Apr 19, 2023</td></tr></table>
