@@ -106,7 +106,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：799 | 影片總數：98</h3></div>
+<div align="center"><h3>訂閱人數：798 | 影片總數：98</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=QICw1-G32BM"><img width="140px" src="https://i.ytimg.com/vi/QICw1-G32BM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QICw1-G32BM">React教學 - 使用 Jest 測試 Component &lpar;Jest 環境設定, Vite, React, TypeScript, Jest&rpar;</a><br/>Apr 23, 2023</td></tr></table>
