@@ -106,7 +106,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：813 | 影片總數：100</h3></div>
+<div align="center"><h3>訂閱人數：814 | 影片總數：100</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=fYoo42tq_aY"><img width="140px" src="https://i.ytimg.com/vi/fYoo42tq_aY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=fYoo42tq_aY">React教學 - 資料夾結構介紹 &lpar;React Folder Structure&rpar;</a><br/>Apr 28, 2023</td></tr></table>
