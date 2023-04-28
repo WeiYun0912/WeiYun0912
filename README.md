@@ -106,7 +106,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：813 | 影片總數：99</h3></div>
+<div align="center"><h3>訂閱人數：812 | 影片總數：99</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=TCdR6KifeKs"><img width="140px" src="https://i.ytimg.com/vi/TCdR6KifeKs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=TCdR6KifeKs">React教學 - React Query 補充 &lpar;useMutation,invalidateQueries&rpar;</a><br/>Apr 25, 2023</td></tr></table>
