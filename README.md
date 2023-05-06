@@ -106,7 +106,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：838 | 影片總數：101</h3></div>
+<div align="center"><h3>訂閱人數：841 | 影片總數：101</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=LSJ7eSp4m2U"><img width="140px" src="https://i.ytimg.com/vi/LSJ7eSp4m2U/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=LSJ7eSp4m2U">使用 Puppeteer 爬取網頁資料 &lpar;爬蟲、蝦皮、蝦皮爬蟲、網頁自動化、防偵測&rpar;</a><br/>May 6, 2023</td></tr></table>
