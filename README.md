@@ -108,7 +108,9 @@
 <!-- UPDATE_YOUTUBE:START -->
 <div align="center"><h3>訂閱人數：838 | 影片總數：101</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=fYoo42tq_aY"><img width="140px" src="https://i.ytimg.com/vi/fYoo42tq_aY/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=LSJ7eSp4m2U"><img width="140px" src="https://i.ytimg.com/vi/LSJ7eSp4m2U/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=LSJ7eSp4m2U">使用 Puppeteer 爬取網頁資料 &lpar;爬蟲、蝦皮、蝦皮爬蟲、網頁自動化、防偵測&rpar;</a><br/>May 6, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=fYoo42tq_aY"><img width="140px" src="https://i.ytimg.com/vi/fYoo42tq_aY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=fYoo42tq_aY">React教學 - 資料夾結構介紹 &lpar;React Folder Structure&rpar;</a><br/>Apr 28, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=TCdR6KifeKs"><img width="140px" src="https://i.ytimg.com/vi/TCdR6KifeKs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=TCdR6KifeKs">React教學 - React Query 補充 &lpar;useMutation,invalidateQueries&rpar;</a><br/>Apr 25, 2023</td></tr></table>
@@ -116,8 +118,6 @@
 <td><a href="https://www.youtube.com/watch?v=QICw1-G32BM">React教學 - 使用 Jest 測試 Component &lpar;Jest 環境設定, Vite, React, TypeScript, Jest&rpar;</a><br/>Apr 23, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=uvL3HRYZwfk"><img width="140px" src="https://i.ytimg.com/vi/uvL3HRYZwfk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=uvL3HRYZwfk">React教學 - 使用 ZOD 進行表單驗證 &lpar;React-Hook-Form、Formik、ZOD&rpar;</a><br/>Apr 19, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=aDb3FSX6XKU"><img width="140px" src="https://i.ytimg.com/vi/aDb3FSX6XKU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=aDb3FSX6XKU">TypeScript - 使用 ZOD 進行型別驗證 &lpar;TypeScript ZOD, Schema Validation&rpar;</a><br/>Apr 7, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/123123960)
