@@ -106,7 +106,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：888 | 影片總數：103</h3></div>
+<div align="center"><h3>訂閱人數：889 | 影片總數：103</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2ai86BH6ok4"><img width="140px" src="https://i.ytimg.com/vi/2ai86BH6ok4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2ai86BH6ok4">React教學 - 使用 react-i18next 實作多語言國際化網站 &lpar;i18n&rpar;</a><br/>May 21, 2023</td></tr></table>
