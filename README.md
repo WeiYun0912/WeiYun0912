@@ -108,7 +108,9 @@
 <!-- UPDATE_YOUTUBE:START -->
 <div align="center"><h3>訂閱人數：962 | 影片總數：104</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2ai86BH6ok4"><img width="140px" src="https://i.ytimg.com/vi/2ai86BH6ok4/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=sK-3La7YPaw"><img width="140px" src="https://i.ytimg.com/vi/sK-3La7YPaw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=sK-3La7YPaw">Next.js 13 教學 - API Routes &lpar;App Router, Route Handlers, Hide API Keys&rpar;</a><br/>Jun 14, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=2ai86BH6ok4"><img width="140px" src="https://i.ytimg.com/vi/2ai86BH6ok4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2ai86BH6ok4">React教學 - 使用 react-i18next 實作多語言國際化網站 &lpar;i18n&rpar;</a><br/>May 21, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=myK14nYnL8Q"><img width="140px" src="https://i.ytimg.com/vi/myK14nYnL8Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=myK14nYnL8Q">使用 Puppeteer 並行處理網頁，提高爬蟲效率。 &lpar;爬蟲、並行處理、Concureent、網頁自動化&rpar;</a><br/>May 9, 2023</td></tr></table>
@@ -116,8 +118,6 @@
 <td><a href="https://www.youtube.com/watch?v=LSJ7eSp4m2U">使用 Puppeteer 爬取網頁資料 &lpar;爬蟲、蝦皮、蝦皮爬蟲、網頁自動化、防偵測&rpar;</a><br/>May 6, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=fYoo42tq_aY"><img width="140px" src="https://i.ytimg.com/vi/fYoo42tq_aY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=fYoo42tq_aY">React教學 - 資料夾結構介紹 &lpar;React Folder Structure&rpar;</a><br/>Apr 28, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=TCdR6KifeKs"><img width="140px" src="https://i.ytimg.com/vi/TCdR6KifeKs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=TCdR6KifeKs">React教學 - React Query 補充 &lpar;useMutation,invalidateQueries&rpar;</a><br/>Apr 25, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/123123960)
