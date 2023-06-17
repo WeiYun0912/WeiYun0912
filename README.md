@@ -106,7 +106,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：975 | 影片總數：104</h3></div>
+<div align="center"><h3>訂閱人數：976 | 影片總數：104</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=sK-3La7YPaw"><img width="140px" src="https://i.ytimg.com/vi/sK-3La7YPaw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sK-3La7YPaw">Next.js 13 教學 - API Routes &lpar;App Router, Route Handlers, Hide API Keys&rpar;</a><br/>Jun 14, 2023</td></tr></table>
