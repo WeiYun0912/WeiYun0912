@@ -106,7 +106,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：998 | 影片總數：105</h3></div>
+<div align="center"><h3>訂閱人數：999 | 影片總數：105</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=sqY9wNFASpE"><img width="140px" src="https://i.ytimg.com/vi/sqY9wNFASpE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sqY9wNFASpE">Next.js 13 教學 - Routing &lpar;Pages, Layout, Metadata, Fonts, Loading, Error, usePathname&rpar;</a><br/>Jun 19, 2023</td></tr></table>
