@@ -108,7 +108,9 @@
 <!-- UPDATE_YOUTUBE:START -->
 <div align="center"><h3>訂閱人數：1060 | 影片總數：107</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=x0acImbm_m8"><img width="140px" src="https://i.ytimg.com/vi/x0acImbm_m8/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=76c88epoRIs"><img width="140px" src="https://i.ytimg.com/vi/76c88epoRIs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=76c88epoRIs">Next.js 13 教學 - Routing &lpar;Intercepting Routes&rpar;</a><br/>Jul 4, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=x0acImbm_m8"><img width="140px" src="https://i.ytimg.com/vi/x0acImbm_m8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=x0acImbm_m8">Next.js 13 教學 - Routing &lpar;Parallel Routes&rpar;</a><br/>Jun 29, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=sqY9wNFASpE"><img width="140px" src="https://i.ytimg.com/vi/sqY9wNFASpE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sqY9wNFASpE">Next.js 13 教學 - Routing &lpar;Pages, Layout, Metadata, Fonts, Loading, Error, usePathname&rpar;</a><br/>Jun 19, 2023</td></tr></table>
@@ -116,8 +118,6 @@
 <td><a href="https://www.youtube.com/watch?v=sK-3La7YPaw">Next.js 13 教學 - API Routes &lpar;App Router, Route Handlers, Hide API Keys&rpar;</a><br/>Jun 14, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=2ai86BH6ok4"><img width="140px" src="https://i.ytimg.com/vi/2ai86BH6ok4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2ai86BH6ok4">React教學 - 使用 react-i18next 實作多語言國際化網站 &lpar;i18n&rpar;</a><br/>May 21, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=myK14nYnL8Q"><img width="140px" src="https://i.ytimg.com/vi/myK14nYnL8Q/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=myK14nYnL8Q">使用 Puppeteer 並行處理網頁，提高爬蟲效率。 &lpar;爬蟲、並行處理、Concureent、網頁自動化&rpar;</a><br/>May 9, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/123123960)
