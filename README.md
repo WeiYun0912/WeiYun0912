@@ -106,7 +106,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：1060 | 影片總數：107</h3></div>
+<div align="center"><h3>訂閱人數：1070 | 影片總數：107</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=76c88epoRIs"><img width="140px" src="https://i.ytimg.com/vi/76c88epoRIs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=76c88epoRIs">Next.js 13 教學 - Routing &lpar;Intercepting Routes&rpar;</a><br/>Jul 4, 2023</td></tr></table>
