@@ -22,8 +22,6 @@
 - [x] React Native Rapid API
 - [x] Tailwind CSS 
 - [x] TypeScript + ZOD
-- [ ] TypeScript + React
-- [ ] Cypress E2E Test
 - [x] 3D Portfolio
 - [x] Github Action Auto Update README.md
 
