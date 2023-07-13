@@ -204,7 +204,7 @@
 <h2 align="center">👣 My Github Activity:</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/WeiYun0912/Wei-Docusaurus/issues/1) in [WeiYun0912/Wei-Docusaurus](https://github.com/WeiYun0912/Wei-Docusaurus)
+1. 🗣 Commented on [#1](https://github.com/WeiYun0912/Wei-Docusaurus/pull/1#issuecomment-1589344804) in [WeiYun0912/Wei-Docusaurus](https://github.com/WeiYun0912/Wei-Docusaurus)
 2. ❌ Closed PR [#2](https://github.com/WeiYun0912/react-ts-learning/pull/2) in [WeiYun0912/react-ts-learning](https://github.com/WeiYun0912/react-ts-learning)
 3. ❌ Closed PR [#3](https://github.com/WeiYun0912/react-ts-learning/pull/3) in [WeiYun0912/react-ts-learning](https://github.com/WeiYun0912/react-ts-learning)
 4. 💪 Opened PR [#3](https://github.com/WeiYun0912/react-ts-learning/pull/3) in [WeiYun0912/react-ts-learning](https://github.com/WeiYun0912/react-ts-learning)
