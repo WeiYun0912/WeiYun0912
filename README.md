@@ -104,7 +104,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：1090 | 影片總數：108</h3></div>
+<div align="center"><h3>訂閱人數：1100 | 影片總數：108</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=jSM4_pb0JTg"><img width="140px" src="https://i.ytimg.com/vi/jSM4_pb0JTg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jSM4_pb0JTg">Next.js 13 教學 - Routing &lpar;Middleware&rpar;</a><br/>Jul 9, 2023</td></tr></table>
