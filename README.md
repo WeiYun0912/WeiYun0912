@@ -107,15 +107,15 @@
 <div align="center"><h3>訂閱人數：1120 | 影片總數：109</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=5rLQdDvlnQI"><img width="140px" src="https://i.ytimg.com/vi/5rLQdDvlnQI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=5rLQdDvlnQI">Next.js 13 教學 - Data Fetching &lpar;Cache,SSR,SSG,ISR&rpar;</a><br/>Jul 17, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=5rLQdDvlnQI">Next.js 13 教學 - Data Fetching &lpar;Cache,SSR,SSG,ISR&rpar; &lpar;Next.js 教學&rpar;</a><br/>Jul 17, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=jSM4_pb0JTg"><img width="140px" src="https://i.ytimg.com/vi/jSM4_pb0JTg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=jSM4_pb0JTg">Next.js 13 教學 - Routing &lpar;Middleware&rpar;</a><br/>Jul 9, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=jSM4_pb0JTg">Next.js 13 教學 - Routing &lpar;Middleware&rpar; &lpar;Next.js 教學&rpar;</a><br/>Jul 9, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=76c88epoRIs"><img width="140px" src="https://i.ytimg.com/vi/76c88epoRIs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=76c88epoRIs">Next.js 13 教學 - Routing &lpar;Intercepting Routes&rpar;</a><br/>Jul 4, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=76c88epoRIs">Next.js 13 教學 - Routing &lpar;Intercepting Routes&rpar; &lpar;Next.js 教學&rpar;</a><br/>Jul 4, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=x0acImbm_m8"><img width="140px" src="https://i.ytimg.com/vi/x0acImbm_m8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=x0acImbm_m8">Next.js 13 教學 - Routing &lpar;Parallel Routes&rpar;</a><br/>Jun 29, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=x0acImbm_m8">Next.js 13 教學 - Routing &lpar;Parallel Routes&rpar; &lpar;Next.js 教學&rpar;</a><br/>Jun 29, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=sqY9wNFASpE"><img width="140px" src="https://i.ytimg.com/vi/sqY9wNFASpE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=sqY9wNFASpE">Next.js 13 教學 - Routing &lpar;Pages, Layout, Metadata, Fonts, Loading, Error, usePathname&rpar;</a><br/>Jun 19, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=sqY9wNFASpE">Next.js 13 教學 - Routing &lpar;Pages, Layout, Metadata, Fonts, Loading, Error, usePathname&rpar; &lpar;Next.js 教學&rpar;</a><br/>Jun 19, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/123123960)
