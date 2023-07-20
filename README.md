@@ -104,7 +104,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：1120 | 影片總數：109</h3></div>
+<div align="center"><h3>訂閱人數：1120 | 影片總數：110</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=5rLQdDvlnQI"><img width="140px" src="https://i.ytimg.com/vi/5rLQdDvlnQI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5rLQdDvlnQI">Next.js 13 教學 - Data Fetching &lpar;Cache,SSR,SSG,ISR&rpar; &lpar;Next.js 教學&rpar;</a><br/>Jul 17, 2023</td></tr></table>
