@@ -104,7 +104,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：1150 | 影片總數：110</h3></div>
+<div align="center"><h3>訂閱人數：1160 | 影片總數：110</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=IKupzbmUdAI"><img width="140px" src="https://i.ytimg.com/vi/IKupzbmUdAI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=IKupzbmUdAI">頻道暫時停更 要去當兵了</a><br/>Jul 20, 2023</td></tr></table>
