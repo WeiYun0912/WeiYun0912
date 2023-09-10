@@ -13,7 +13,15 @@
 - 📫 How to reach me **yher25@gmail.com**
 
 - 📓 CakeResume：https://www.cakeresume.com/wei-wei-e8a62e
+
+<h2 align="center">CodeWar</h2>
+
+<div align="center">
   
+![CodeWar](https://www.codewars.com/users/WeiYun/badges/large)
+
+</div>
+
 <h2 align="center">📓 Todo </h2>  
 
 - [x] CSS Grid
