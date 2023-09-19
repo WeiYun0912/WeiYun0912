@@ -112,7 +112,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：1330 | 影片總數：113</h3></div>
+<div align="center"><h3>訂閱人數：1340 | 影片總數：113</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=VPxSSh0zuk8"><img width="140px" src="https://i.ytimg.com/vi/VPxSSh0zuk8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VPxSSh0zuk8">shadcn/ui 介紹 &lpar;react, shadcn, ui library&rpar;</a><br/>Sep 14, 2023</td></tr></table>
