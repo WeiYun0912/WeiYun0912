@@ -112,7 +112,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：1350 | 影片總數：114</h3></div>
+<div align="center"><h3>訂閱人數：1350 | 影片總數：113</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=pqVQBrg8YgM"><img width="140px" src="https://i.ytimg.com/vi/pqVQBrg8YgM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pqVQBrg8YgM">React教學 - Composition &amp; Compound Pattern &lpar;react,createContext,useContext&rpar;</a><br/>Sep 20, 2023</td></tr></table>
