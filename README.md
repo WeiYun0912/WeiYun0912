@@ -114,7 +114,9 @@
 <!-- UPDATE_YOUTUBE:START -->
 <div align="center"><h3>訂閱人數：1380 | 影片總數：116</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-ScajqKRzOs"><img width="140px" src="https://i.ytimg.com/vi/-ScajqKRzOs/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=b2ksjY54Im4"><img width="140px" src="https://i.ytimg.com/vi/b2ksjY54Im4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=b2ksjY54Im4">React教學 - Render Props Pattern &lpar;Lifting State、Prop Drilling&rpar;</a><br/>Sep 27, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=-ScajqKRzOs"><img width="140px" src="https://i.ytimg.com/vi/-ScajqKRzOs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-ScajqKRzOs">React教學 - React State 放在 URL 的好處 &lpar;useState, useSearchParams, react-router-dom&rpar;</a><br/>Sep 23, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=pqVQBrg8YgM"><img width="140px" src="https://i.ytimg.com/vi/pqVQBrg8YgM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pqVQBrg8YgM">React教學 - Composition &amp; Compound Pattern &lpar;react,createContext,useContext&rpar;</a><br/>Sep 20, 2023</td></tr></table>
@@ -122,8 +124,6 @@
 <td><a href="https://www.youtube.com/watch?v=VPxSSh0zuk8">shadcn/ui 介紹 &lpar;react, shadcn, ui library&rpar;</a><br/>Sep 14, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=78rNX3XTbdo"><img width="140px" src="https://i.ytimg.com/vi/78rNX3XTbdo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=78rNX3XTbdo">Next.js 13 教學 - Routing &lpar;Project Organization&rpar; &lpar;Next.js 教學&rpar;</a><br/>Sep 9, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=0U3OL65AyFc"><img width="140px" src="https://i.ytimg.com/vi/0U3OL65AyFc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0U3OL65AyFc">頻道繼續更新 順便講一下未來會介紹的東西</a><br/>Sep 9, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/123123960)
