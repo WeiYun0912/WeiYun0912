@@ -112,7 +112,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：1380 | 影片總數：116</h3></div>
+<div align="center"><h3>訂閱人數：1390 | 影片總數：116</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=b2ksjY54Im4"><img width="140px" src="https://i.ytimg.com/vi/b2ksjY54Im4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=b2ksjY54Im4">React教學 - Render Props Pattern &lpar;Lifting State、Prop Drilling&rpar;</a><br/>Sep 27, 2023</td></tr></table>
