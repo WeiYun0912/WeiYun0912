@@ -112,7 +112,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：1400 | 影片總數：117</h3></div>
+<div align="center"><h3>訂閱人數：1410 | 影片總數：117</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=zo0Omz9cWLY"><img width="140px" src="https://i.ytimg.com/vi/zo0Omz9cWLY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zo0Omz9cWLY">React教學 - HOC Pattern &lpar;Higher-Order Component&rpar;</a><br/>Oct 1, 2023</td></tr></table>
