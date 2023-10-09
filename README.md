@@ -112,7 +112,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：1420 | 影片總數：118</h3></div>
+<div align="center"><h3>訂閱人數：1430 | 影片總數：118</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=BwTiji7VkuA"><img width="140px" src="https://i.ytimg.com/vi/BwTiji7VkuA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=BwTiji7VkuA">JavaScript - 個人常用到的字串方法 &lpar;Replace Regex, Split, Join, Slice, Substring&rpar;</a><br/>Oct 9, 2023</td></tr></table>
