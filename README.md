@@ -115,7 +115,7 @@
 <div align="center"><h3>訂閱人數：1440 | 影片總數：118</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=BwTiji7VkuA"><img width="140px" src="https://i.ytimg.com/vi/BwTiji7VkuA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=BwTiji7VkuA">JavaScript - 個人常用到的字串方法 &lpar;Replace Regex, Split, Join, Slice, Substring&rpar;</a><br/>Oct 9, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=BwTiji7VkuA">JavaScript - 常用的字串方法 &lpar;Replace Regex, Split, Join, Slice, Substring&rpar;</a><br/>Oct 9, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=zo0Omz9cWLY"><img width="140px" src="https://i.ytimg.com/vi/zo0Omz9cWLY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zo0Omz9cWLY">React教學 - HOC Pattern &lpar;Higher-Order Component&rpar;</a><br/>Oct 1, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=b2ksjY54Im4"><img width="140px" src="https://i.ytimg.com/vi/b2ksjY54Im4/mqdefault.jpg"></a></td>
