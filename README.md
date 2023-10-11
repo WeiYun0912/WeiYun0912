@@ -114,7 +114,9 @@
 <!-- UPDATE_YOUTUBE:START -->
 <div align="center"><h3>訂閱人數：1440 | 影片總數：118</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=BwTiji7VkuA"><img width="140px" src="https://i.ytimg.com/vi/BwTiji7VkuA/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=3bbwu4BKdfk"><img width="140px" src="https://i.ytimg.com/vi/3bbwu4BKdfk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=3bbwu4BKdfk">JavaScript - 常用的陣列與物件方法</a><br/>Oct 11, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=BwTiji7VkuA"><img width="140px" src="https://i.ytimg.com/vi/BwTiji7VkuA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=BwTiji7VkuA">JavaScript - 常用的字串方法 &lpar;Replace Regex, Split, Join, Slice, Substring&rpar;</a><br/>Oct 9, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=zo0Omz9cWLY"><img width="140px" src="https://i.ytimg.com/vi/zo0Omz9cWLY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zo0Omz9cWLY">React教學 - HOC Pattern &lpar;Higher-Order Component&rpar;</a><br/>Oct 1, 2023</td></tr></table>
@@ -122,8 +124,6 @@
 <td><a href="https://www.youtube.com/watch?v=b2ksjY54Im4">React教學 - Render Props Pattern &lpar;Lifting State、Prop Drilling&rpar;</a><br/>Sep 27, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=-ScajqKRzOs"><img width="140px" src="https://i.ytimg.com/vi/-ScajqKRzOs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-ScajqKRzOs">React教學 - React State 放在 URL 的好處 &lpar;useState, useSearchParams, react-router-dom&rpar;</a><br/>Sep 23, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=pqVQBrg8YgM"><img width="140px" src="https://i.ytimg.com/vi/pqVQBrg8YgM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=pqVQBrg8YgM">React教學 - Composition &amp; Compound Pattern &lpar;react,createContext,useContext&rpar;</a><br/>Sep 20, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/123123960)
