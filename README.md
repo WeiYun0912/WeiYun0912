@@ -112,7 +112,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：1450 | 影片總數：119</h3></div>
+<div align="center"><h3>訂閱人數：1450 | 影片總數：118</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=3bbwu4BKdfk"><img width="140px" src="https://i.ytimg.com/vi/3bbwu4BKdfk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3bbwu4BKdfk">JavaScript - 常用的陣列與物件方法</a><br/>Oct 11, 2023</td></tr></table>
