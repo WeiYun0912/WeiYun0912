@@ -112,7 +112,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：1470 | 影片總數：120</h3></div>
+<div align="center"><h3>訂閱人數：1460 | 影片總數：120</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=DDTCkghdIic"><img width="140px" src="https://i.ytimg.com/vi/DDTCkghdIic/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DDTCkghdIic">React教學 - 如何設定 PWA 並達到離線存取功能 &lpar;react, vite, pwa, offline, service worker, workbox&rpar;</a><br/>Oct 13, 2023</td></tr></table>
