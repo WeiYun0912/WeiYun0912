@@ -131,11 +131,11 @@
 <h2 align="center">📕 Medium Post Latest Posts:</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Tailwind CSS 環境建置與相關語法介紹](https://medium.com/@weiyun0912/tailwind-css-%E7%92%B0%E5%A2%83%E5%BB%BA%E7%BD%AE%E8%88%87%E7%9B%B8%E9%97%9C%E8%AA%9E%E6%B3%95%E4%BB%8B%E7%B4%B9-10307064c14c?source=rss-d8aa3754f97a------2)
+- [Jest React &lpar;TypeScript&rpar; 環境設定](https://medium.com/@weiyun0912/jest-react-typescript-%E7%92%B0%E5%A2%83%E8%A8%AD%E5%AE%9A-a459ad4484d6?source=rss-d8aa3754f97a------2)
 - [React i18next &lpar;多國語系切換套件&rpar;](https://medium.com/@weiyun0912/react-i18next-%E5%A4%9A%E5%9C%8B%E8%AA%9E%E7%B3%BB%E5%88%87%E6%8F%9B%E5%A5%97%E4%BB%B6-44ea60ae7399?source=rss-d8aa3754f97a------2)
 - [TypeScript 基礎 &lpar;使用 Vite 建立環境&rpar;​](https://medium.com/@weiyun0912/%E8%AA%AA%E6%98%8E-b21f1ff1080b?source=rss-d8aa3754f97a------2)
 - [實用的 VS Code 套件 &lpar;網頁開發&rpar;](https://medium.com/@weiyun0912/%E5%AF%A6%E7%94%A8%E7%9A%84-vs-code-%E5%A5%97%E4%BB%B6-%E7%B6%B2%E9%A0%81%E9%96%8B%E7%99%BC-dff0a5c479fb?source=rss-d8aa3754f97a------2)
-- [React 使用 Lazy 與 Suspense 動態載入 Component](https://medium.com/@weiyun0912/react-%E4%BD%BF%E7%94%A8-lazy-%E8%88%87-suspense-%E5%8B%95%E6%85%8B%E8%BC%89%E5%85%A5-component-6a479ff05737?source=rss-d8aa3754f97a------2)
-- [React 初學者常犯的錯誤 — 搜尋陣列資料](https://medium.com/@weiyun0912/react-%E5%88%9D%E5%AD%B8%E8%80%85%E5%B8%B8%E7%8A%AF%E7%9A%84%E9%8C%AF%E8%AA%A4-%E6%90%9C%E5%B0%8B%E9%99%A3%E5%88%97%E8%B3%87%E6%96%99-d09166d5609e?source=rss-d8aa3754f97a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more posts...](https://medium.com/@weiyun0912)
