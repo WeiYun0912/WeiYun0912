@@ -112,7 +112,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：1490 | 影片總數：121</h3></div>
+<div align="center"><h3>訂閱人數：1500 | 影片總數：121</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=1Y4XTpmzozI"><img width="140px" src="https://i.ytimg.com/vi/1Y4XTpmzozI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1Y4XTpmzozI">React教學 - 實作 Debounce Function 與 useDebounce &lpar;debounce, custom hook&rpar;</a><br/>Oct 23, 2023</td></tr></table>
