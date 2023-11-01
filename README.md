@@ -112,7 +112,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：1520 | 影片總數：122</h3></div>
+<div align="center"><h3>訂閱人數：1520 | 影片總數：121</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=sfCslGcP1G4"><img width="140px" src="https://i.ytimg.com/vi/sfCslGcP1G4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sfCslGcP1G4">5 個實用的 VS Code 擴充套件 &lpar;Code Spell Checker, Error Lens, Pretty TypeScript Errors&rpar;</a><br/>Nov 1, 2023</td></tr></table>
