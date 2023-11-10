@@ -112,7 +112,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：1560 | 影片總數：122</h3></div>
+<div align="center"><h3>訂閱人數：1560 | 影片總數：123</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=g-r6xAlpvVE"><img width="140px" src="https://i.ytimg.com/vi/g-r6xAlpvVE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=g-r6xAlpvVE">使用 cypress e2e 測試 Next.js 與 React Application &lpar;cypress e2e&rpar;</a><br/>Nov 10, 2023</td></tr></table>
