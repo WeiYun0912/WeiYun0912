@@ -114,7 +114,9 @@
 <!-- UPDATE_YOUTUBE:START -->
 <div align="center"><h3>訂閱人數：1560 | 影片總數：123</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=sfCslGcP1G4"><img width="140px" src="https://i.ytimg.com/vi/sfCslGcP1G4/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=g-r6xAlpvVE"><img width="140px" src="https://i.ytimg.com/vi/g-r6xAlpvVE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=g-r6xAlpvVE">使用 cypress e2e 測試 Next.js 與 React Application &lpar;cypress e2e&rpar;</a><br/>Nov 10, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=sfCslGcP1G4"><img width="140px" src="https://i.ytimg.com/vi/sfCslGcP1G4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sfCslGcP1G4">5 個實用的 VS Code 擴充套件 &lpar;Code Spell Checker, Error Lens, Pretty TypeScript Errors&rpar;</a><br/>Nov 1, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=1Y4XTpmzozI"><img width="140px" src="https://i.ytimg.com/vi/1Y4XTpmzozI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1Y4XTpmzozI">React教學 - 實作 Debounce Function 與 useDebounce &lpar;debounce, custom hook&rpar;</a><br/>Oct 23, 2023</td></tr></table>
@@ -122,8 +124,6 @@
 <td><a href="https://www.youtube.com/watch?v=DDTCkghdIic">React教學 - 如何設定 PWA 並達到離線存取功能 &lpar;react, vite, pwa, offline, service worker, workbox&rpar;</a><br/>Oct 13, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=3bbwu4BKdfk"><img width="140px" src="https://i.ytimg.com/vi/3bbwu4BKdfk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3bbwu4BKdfk">JavaScript - 常用的陣列與物件方法</a><br/>Oct 11, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=BwTiji7VkuA"><img width="140px" src="https://i.ytimg.com/vi/BwTiji7VkuA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=BwTiji7VkuA">JavaScript - 常用的字串方法 &lpar;Replace Regex, Split, Join, Slice, Substring&rpar;</a><br/>Oct 9, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/123123960)
