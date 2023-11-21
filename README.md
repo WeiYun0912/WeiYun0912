@@ -115,9 +115,9 @@
 <div align="center"><h3>訂閱人數：1600 | 影片總數：124</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Jk2YVGpLShg"><img width="140px" src="https://i.ytimg.com/vi/Jk2YVGpLShg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Jk2YVGpLShg">使用 cypress 測試 Next.js 與 React Component &lpar;cypress component testing&rpar;</a><br/>Nov 16, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=Jk2YVGpLShg">Cypress 教學 - 測試 Next.js 與 React Component &lpar;cypress component testing&rpar;</a><br/>Nov 16, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=g-r6xAlpvVE"><img width="140px" src="https://i.ytimg.com/vi/g-r6xAlpvVE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=g-r6xAlpvVE">使用 cypress e2e 測試 Next.js 與 React Application &lpar;cypress e2e&rpar;</a><br/>Nov 10, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=g-r6xAlpvVE">Cypress E2E 教學 - 測試 Next.js 與 React Application &lpar;cypress e2e&rpar;</a><br/>Nov 10, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=sfCslGcP1G4"><img width="140px" src="https://i.ytimg.com/vi/sfCslGcP1G4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sfCslGcP1G4">5 個實用的 VS Code 擴充套件 &lpar;Code Spell Checker, Error Lens, Pretty TypeScript Errors&rpar;</a><br/>Nov 1, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=1Y4XTpmzozI"><img width="140px" src="https://i.ytimg.com/vi/1Y4XTpmzozI/mqdefault.jpg"></a></td>
