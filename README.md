@@ -112,7 +112,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：1610 | 影片總數：124</h3></div>
+<div align="center"><h3>訂閱人數：1610 | 影片總數：125</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=dYEOkjthRTE"><img width="140px" src="https://i.ytimg.com/vi/dYEOkjthRTE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=dYEOkjthRTE">React教學 - 使用 Framer Motion 製作動畫 &lpar;framer-motion, animation, react&rpar;</a><br/>Nov 23, 2023</td></tr></table>
