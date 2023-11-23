@@ -114,7 +114,9 @@
 <!-- UPDATE_YOUTUBE:START -->
 <div align="center"><h3>訂閱人數：1610 | 影片總數：125</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Jk2YVGpLShg"><img width="140px" src="https://i.ytimg.com/vi/Jk2YVGpLShg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=dYEOkjthRTE"><img width="140px" src="https://i.ytimg.com/vi/dYEOkjthRTE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=dYEOkjthRTE">React教學 - 使用 Framer Motion 製作動畫 &lpar;framer-motion, animation, react&rpar;</a><br/>Nov 23, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Jk2YVGpLShg"><img width="140px" src="https://i.ytimg.com/vi/Jk2YVGpLShg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Jk2YVGpLShg">Cypress 教學 - 測試 Next.js 與 React Component &lpar;cypress component testing&rpar;</a><br/>Nov 16, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=g-r6xAlpvVE"><img width="140px" src="https://i.ytimg.com/vi/g-r6xAlpvVE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=g-r6xAlpvVE">Cypress E2E 教學 - 測試 Next.js 與 React Application &lpar;cypress e2e&rpar;</a><br/>Nov 10, 2023</td></tr></table>
@@ -122,8 +124,6 @@
 <td><a href="https://www.youtube.com/watch?v=sfCslGcP1G4">5 個實用的 VS Code 擴充套件 &lpar;Code Spell Checker, Error Lens, Pretty TypeScript Errors&rpar;</a><br/>Nov 1, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=1Y4XTpmzozI"><img width="140px" src="https://i.ytimg.com/vi/1Y4XTpmzozI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1Y4XTpmzozI">React教學 - 實作 Debounce Function 與 useDebounce &lpar;debounce, custom hook&rpar;</a><br/>Oct 23, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=DDTCkghdIic"><img width="140px" src="https://i.ytimg.com/vi/DDTCkghdIic/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=DDTCkghdIic">React教學 - 如何設定 PWA 並達到離線存取功能 &lpar;react, vite, pwa, offline, service worker, workbox&rpar;</a><br/>Oct 13, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/123123960)
