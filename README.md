@@ -112,7 +112,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：1660 | 影片總數：126</h3></div>
+<div align="center"><h3>訂閱人數：1670 | 影片總數：126</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Nru6yGYivvg"><img width="140px" src="https://i.ytimg.com/vi/Nru6yGYivvg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Nru6yGYivvg">React教學 - Zustand 介紹 &lpar;react, zustand, state management, todo list&rpar;</a><br/>Dec 1, 2023</td></tr></table>
