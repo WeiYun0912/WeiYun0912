@@ -114,7 +114,9 @@
 <!-- UPDATE_YOUTUBE:START -->
 <div align="center"><h3>訂閱人數：1730 | 影片總數：127</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Nru6yGYivvg"><img width="140px" src="https://i.ytimg.com/vi/Nru6yGYivvg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=eh-NbEBcwbg"><img width="140px" src="https://i.ytimg.com/vi/eh-NbEBcwbg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=eh-NbEBcwbg">React教學 - TypeScript + Zod  基礎教學</a><br/>Jan 5, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Nru6yGYivvg"><img width="140px" src="https://i.ytimg.com/vi/Nru6yGYivvg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Nru6yGYivvg">React教學 - Zustand 介紹 &lpar;react, zustand, state management, todo list&rpar;</a><br/>Dec 1, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=dYEOkjthRTE"><img width="140px" src="https://i.ytimg.com/vi/dYEOkjthRTE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=dYEOkjthRTE">React教學 - 使用 Framer Motion 製作動畫 &lpar;framer-motion, animation, react&rpar;</a><br/>Nov 23, 2023</td></tr></table>
@@ -122,8 +124,6 @@
 <td><a href="https://www.youtube.com/watch?v=Jk2YVGpLShg">Cypress 教學 - 測試 Next.js 與 React Component &lpar;cypress component testing&rpar;</a><br/>Nov 16, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=g-r6xAlpvVE"><img width="140px" src="https://i.ytimg.com/vi/g-r6xAlpvVE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=g-r6xAlpvVE">Cypress E2E 教學 - 測試 Next.js 與 React Application &lpar;cypress e2e&rpar;</a><br/>Nov 10, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=sfCslGcP1G4"><img width="140px" src="https://i.ytimg.com/vi/sfCslGcP1G4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=sfCslGcP1G4">5 個實用的 VS Code 擴充套件 &lpar;Code Spell Checker, Error Lens, Pretty TypeScript Errors&rpar;</a><br/>Nov 1, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/123123960)
