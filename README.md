@@ -112,7 +112,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：1740 | 影片總數：127</h3></div>
+<div align="center"><h3>訂閱人數：1750 | 影片總數：127</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=eh-NbEBcwbg"><img width="140px" src="https://i.ytimg.com/vi/eh-NbEBcwbg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=eh-NbEBcwbg">React教學 - TypeScript + Zod  基礎教學 &lpar;react typescript&rpar;</a><br/>Jan 5, 2024</td></tr></table>
