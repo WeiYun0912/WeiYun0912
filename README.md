@@ -131,11 +131,11 @@
 <h2 align="center">📕 Medium Post Latest Posts:</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [React Component Discriminated Unions &lpar;可辨識複合型別&rpar;](https://medium.com/@weiyun0912/react-component-discriminated-unions-%E5%8F%AF%E8%BE%A8%E8%AD%98%E8%A4%87%E5%90%88%E5%9E%8B%E5%88%A5-31d96d83fadf?source=rss-d8aa3754f97a------2)
 - [[docusaurus] 在 Docusaurus 中使用 Algolia 實作搜尋功能 &lpar;Docusaurus Algolia&rpar;](https://medium.com/@weiyun0912/docusaurus-%E5%9C%A8-docusaurus-%E4%B8%AD%E4%BD%BF%E7%94%A8-algolia-%E5%AF%A6%E4%BD%9C%E6%90%9C%E5%B0%8B%E5%8A%9F%E8%83%BD-4953b6ed4c34?source=rss-d8aa3754f97a------2)
 - [5 個實用的 VS Code 擴充套件 &lpar;vs code extensions&rpar;](https://medium.com/@weiyun0912/5-%E5%80%8B%E5%AF%A6%E7%94%A8%E7%9A%84-vs-code-%E6%93%B4%E5%85%85%E5%A5%97%E4%BB%B6-extensions-cde7ff22e03c?source=rss-d8aa3754f97a------2)
 - [JavaScript 常用的字串方法](https://medium.com/@weiyun0912/javascript-%E5%B8%B8%E7%94%A8%E7%9A%84%E5%AD%97%E4%B8%B2%E6%96%B9%E6%B3%95-cbfe6a1172a2?source=rss-d8aa3754f97a------2)
 - [React State 放在 URL 的好處](https://medium.com/@weiyun0912/react-state-%E6%94%BE%E5%9C%A8-url-%E7%9A%84%E5%A5%BD%E8%99%95-2e270e267d94?source=rss-d8aa3754f97a------2)
-- [TypeScript + Zod &lpar;Schema Validcation&rpar;](https://medium.com/@weiyun0912/typescript-zod-schema-validcation-15404afb3d35?source=rss-d8aa3754f97a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more posts...](https://medium.com/@weiyun0912)
