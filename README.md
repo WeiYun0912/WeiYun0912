@@ -114,7 +114,9 @@
 <!-- UPDATE_YOUTUBE:START -->
 <div align="center"><h3>訂閱人數：1760 | 影片總數：130</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=e0tU0iXoEzg"><img width="140px" src="https://i.ytimg.com/vi/e0tU0iXoEzg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=JWekUCDWOFg"><img width="140px" src="https://i.ytimg.com/vi/JWekUCDWOFg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=JWekUCDWOFg">給不想手動寫 console 的你 - Turbo Console Log &lpar;VS Code Extensions&rpar;</a><br/>Jan 12, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=e0tU0iXoEzg"><img width="140px" src="https://i.ytimg.com/vi/e0tU0iXoEzg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=e0tU0iXoEzg">React教學 - TypeScript Wrapper Component &lpar;react typescript, type helper&rpar;</a><br/>Jan 12, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=B-aNpOuRjHU"><img width="140px" src="https://i.ytimg.com/vi/B-aNpOuRjHU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=B-aNpOuRjHU">React教學 - 使用 Typescript Discriminated Unions 打造彈性化的 Component &lpar;react typescript&rpar;</a><br/>Jan 9, 2024</td></tr></table>
@@ -122,8 +124,6 @@
 <td><a href="https://www.youtube.com/watch?v=eh-NbEBcwbg">React教學 - TypeScript + Zod  基礎教學 &lpar;react typescript&rpar;</a><br/>Jan 5, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Nru6yGYivvg"><img width="140px" src="https://i.ytimg.com/vi/Nru6yGYivvg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Nru6yGYivvg">React教學 - Zustand 介紹 &lpar;react, zustand, state management, todo list&rpar;</a><br/>Dec 1, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=dYEOkjthRTE"><img width="140px" src="https://i.ytimg.com/vi/dYEOkjthRTE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=dYEOkjthRTE">React教學 - 使用 Framer Motion 製作動畫 &lpar;framer-motion, animation, react&rpar;</a><br/>Nov 23, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/123123960)
