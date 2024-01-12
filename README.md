@@ -112,7 +112,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：1760 | 影片總數：128</h3></div>
+<div align="center"><h3>訂閱人數：1760 | 影片總數：129</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=B-aNpOuRjHU"><img width="140px" src="https://i.ytimg.com/vi/B-aNpOuRjHU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=B-aNpOuRjHU">React教學 - 使用 Typescript Discriminated Unions 打造彈性化的 Component &lpar;react typescript&rpar;</a><br/>Jan 9, 2024</td></tr></table>
