@@ -112,7 +112,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：1760 | 影片總數：129</h3></div>
+<div align="center"><h3>訂閱人數：1760 | 影片總數：130</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=e0tU0iXoEzg"><img width="140px" src="https://i.ytimg.com/vi/e0tU0iXoEzg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=e0tU0iXoEzg">React教學 - TypeScript Wrapper Component &lpar;react typescript, type helper&rpar;</a><br/>Jan 12, 2024</td></tr></table>
