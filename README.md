@@ -112,7 +112,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：1780 | 影片總數：130</h3></div>
+<div align="center"><h3>訂閱人數：1790 | 影片總數：130</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=JWekUCDWOFg"><img width="140px" src="https://i.ytimg.com/vi/JWekUCDWOFg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JWekUCDWOFg">給不想手動寫 console 的你 - Turbo Console Log &lpar;VS Code Extensions&rpar;</a><br/>Jan 12, 2024</td></tr></table>
