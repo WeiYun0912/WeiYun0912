@@ -112,7 +112,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：2040 | 影片總數：131</h3></div>
+<div align="center"><h3>訂閱人數：2050 | 影片總數：131</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=CCEK5luM06Q"><img width="140px" src="https://i.ytimg.com/vi/CCEK5luM06Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=CCEK5luM06Q">使用 Gimli Tailwind 快速修改元素樣式 &lpar;Tailwind CSS, Chrome Extension&rpar;</a><br/>Mar 29, 2024</td></tr></table>
