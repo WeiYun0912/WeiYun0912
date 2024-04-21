@@ -114,7 +114,9 @@
 <!-- UPDATE_YOUTUBE:START -->
 <div align="center"><h3>訂閱人數：2050 | 影片總數：109</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=CCEK5luM06Q"><img width="140px" src="https://i.ytimg.com/vi/CCEK5luM06Q/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=exgl7KKIauo"><img width="140px" src="https://i.ytimg.com/vi/exgl7KKIauo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=exgl7KKIauo">React 教學 - React Query v5 &lpar;useQuery、useMutation、staleTime、gcTime、signal&rpar;</a><br/>Apr 21, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=CCEK5luM06Q"><img width="140px" src="https://i.ytimg.com/vi/CCEK5luM06Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=CCEK5luM06Q">使用 Gimli Tailwind 快速修改元素樣式 &lpar;Tailwind CSS, Chrome Extension&rpar;</a><br/>Mar 29, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=4rpZqVbVsHc"><img width="140px" src="https://i.ytimg.com/vi/4rpZqVbVsHc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4rpZqVbVsHc">React教學 - 如何定義 context type &lpar;react typescript&rpar;</a><br/>Jan 16, 2024</td></tr></table>
@@ -122,8 +124,6 @@
 <td><a href="https://www.youtube.com/watch?v=JWekUCDWOFg">給不想手動寫 console 的你 - Turbo Console Log &lpar;VS Code Extensions&rpar;</a><br/>Jan 12, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=e0tU0iXoEzg"><img width="140px" src="https://i.ytimg.com/vi/e0tU0iXoEzg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=e0tU0iXoEzg">React教學 - TypeScript Wrapper Component &lpar;react typescript, type helper&rpar;</a><br/>Jan 12, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=B-aNpOuRjHU"><img width="140px" src="https://i.ytimg.com/vi/B-aNpOuRjHU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=B-aNpOuRjHU">React教學 - 使用 Typescript Discriminated Unions 打造彈性化的 Component &lpar;react typescript&rpar;</a><br/>Jan 9, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/123123960)
