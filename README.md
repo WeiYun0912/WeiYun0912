@@ -112,7 +112,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：2070 | 影片總數：132</h3></div>
+<div align="center"><h3>訂閱人數：2080 | 影片總數：132</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=exgl7KKIauo"><img width="140px" src="https://i.ytimg.com/vi/exgl7KKIauo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=exgl7KKIauo">React 教學 - React Query v5 &lpar;useQuery、useMutation、staleTime、gcTime、signal&rpar;</a><br/>Apr 21, 2024</td></tr></table>
