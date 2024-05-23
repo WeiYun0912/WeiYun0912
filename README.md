@@ -143,14 +143,14 @@
 <h2 align="center">📕 My Blog Latest Posts:</h2>
 
 <!-- UPDATE_WEISITE:START -->
-- 2024-02-26：新增 前端面試考題 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Others/interview)
-- 2024-01-11：新增 React Batter Wrapper Component (ComponentPropsWithoutRef) 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/TypeScript/TypeScript-Wrapper-Component)
-- 2024-01-09：新增 React Component Discriminated Unions (可辨識複合型別) 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/TypeScript/TypeScript-Discriminated-Unions)
-- 2023-11-01：新增 5 個實用的 VS Code 擴充套件 (extensions) 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/VS%20Code/vsCodeExtensions2)
-- 2023-10-28：新增 JavaScript 常用的字串方法 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/JavaScript/string)
-- 2023-10-24：新增 React State 放在 URL 的好處 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/React/Tips/React-State-URL)
-- 2023-05-30：新增 React i18next (多國語系切換套件) 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/React/Package/React-i18next)
-- 2023-04-23：新增 Jest React (TypeScript) 環境設定 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Jest/Jest-React)
+- 2024-05-24：新增 檢查 Git Staged 的檔案是否符合 ESLint 規範 (git hook, husky, lint-staged, eslint) 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Others/Husky-Lint-Staged)
+- 2024-05-23：新增 Vue 使用動態元件渲染 HTML 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-Dynamic-Render-HTML)
+- 2024-05-23：新增 Vue Provide 與 Inject 用法 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-Provide-Inject)
+- 2024-05-23：新增 Vue 自訂語法 Directive 用法 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-Directive)
+- 2024-05-23：新增 Vue 基礎語法 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-Basic)
+- 2024-05-22：新增 Vue Emit 用法 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-Emit)
+- 2024-05-22：新增 Vue Slot 用法 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-Slot)
+- 2024-05-22：新增 個人常用的 Vue ESLint Rules 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-ESLint)
 <!-- UPDATE_WEISITE:END -->
 
 
