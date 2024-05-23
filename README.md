@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chun Wei Yeh<br><br> <img src="https://komarev.com/ghpvc/?username=weiyun0912&style=for-the-badge"> </h1>
+<h1 align="center">Hi 👋, I'm Chun Wei Yeh<br><br> <img src="https://komarev.com/ghpvc/?username=weiyun0912&style=for-the-badge"></h1>
 
 - 💻 [My Website](https://wei-docusaurus-vercel.vercel.app)
 
