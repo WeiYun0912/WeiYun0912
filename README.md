@@ -112,7 +112,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：2120 | 影片總數：134</h3></div>
+<div align="center"><h3>訂閱人數：2130 | 影片總數：134</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=iwMzzAzYgjE"><img width="140px" src="https://i.ytimg.com/vi/iwMzzAzYgjE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=iwMzzAzYgjE">Vue 3 教學 - 使用 ESLint 提高 Debug 效率 &lpar;Vue3, ESLint&rpar;</a><br/>May 21, 2024</td></tr></table>
