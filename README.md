@@ -114,7 +114,9 @@
 <!-- UPDATE_YOUTUBE:START -->
 <div align="center"><h3>訂閱人數：2130 | 影片總數：135</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=iwMzzAzYgjE"><img width="140px" src="https://i.ytimg.com/vi/iwMzzAzYgjE/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=CDipATge84g"><img width="140px" src="https://i.ytimg.com/vi/CDipATge84g/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=CDipATge84g">檢查 Git Staged 的檔案是否符合 ESLint 規範 &lpar;git hook, husky, lint-staged, eslint&rpar;</a><br/>May 24, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=iwMzzAzYgjE"><img width="140px" src="https://i.ytimg.com/vi/iwMzzAzYgjE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=iwMzzAzYgjE">Vue 3 教學 - 使用 ESLint 提高 Debug 效率 &lpar;Vue3, ESLint&rpar;</a><br/>May 21, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0CNE0QseL-g"><img width="140px" src="https://i.ytimg.com/vi/0CNE0QseL-g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0CNE0QseL-g">Vue 3 教學 - 使用 Vue3 Composition Api 實作 Todo List &lpar;Vue3&rpar;</a><br/>May 19, 2024</td></tr></table>
@@ -122,8 +124,6 @@
 <td><a href="https://www.youtube.com/watch?v=exgl7KKIauo">React 教學 - React Query v5 &lpar;useQuery、useMutation、staleTime、gcTime、signal&rpar;</a><br/>Apr 21, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=CCEK5luM06Q"><img width="140px" src="https://i.ytimg.com/vi/CCEK5luM06Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=CCEK5luM06Q">使用 Gimli Tailwind 快速修改元素樣式 &lpar;Tailwind CSS, Chrome Extension&rpar;</a><br/>Mar 29, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=4rpZqVbVsHc"><img width="140px" src="https://i.ytimg.com/vi/4rpZqVbVsHc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=4rpZqVbVsHc">React教學 - 如何定義 context type &lpar;react typescript&rpar;</a><br/>Jan 16, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/123123960)
