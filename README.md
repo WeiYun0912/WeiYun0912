@@ -112,7 +112,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：2130 | 影片總數：135</h3></div>
+<div align="center"><h3>訂閱人數：2130 | 影片總數：134</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=CDipATge84g"><img width="140px" src="https://i.ytimg.com/vi/CDipATge84g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=CDipATge84g">檢查 Git Staged 的檔案是否符合 ESLint 規範 &lpar;git hook, husky, lint-staged, eslint&rpar;</a><br/>May 24, 2024</td></tr></table>
