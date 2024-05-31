@@ -131,11 +131,11 @@
 <h2 align="center">📕 Medium Post Latest Posts:</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [[vue] Vue Slot 用法](https://medium.com/@weiyun0912/vue-vue-slot-%E7%94%A8%E6%B3%95-0a092b484f19?source=rss-d8aa3754f97a------2)
 - [[vue] 個人常用的 Vue ESLint Rules](https://medium.com/@weiyun0912/vue-%E5%80%8B%E4%BA%BA%E5%B8%B8%E7%94%A8%E7%9A%84-vue-eslint-rules-66e74a1cc872?source=rss-d8aa3754f97a------2)
 - [[vue] Vue 3 基礎語法](https://medium.com/@weiyun0912/vue-3-%E5%9F%BA%E7%A4%8E%E8%AA%9E%E6%B3%95-9b790c56de08?source=rss-d8aa3754f97a------2)
 - [React Batter Wrapper Component &lpar;ComponentPropsWithoutRef&rpar;](https://medium.com/@weiyun0912/react-batter-wrapper-component-componentpropswithoutref-de6b0991adce?source=rss-d8aa3754f97a------2)
 - [React Component Discriminated Unions &lpar;可辨識複合型別&rpar;](https://medium.com/@weiyun0912/react-component-discriminated-unions-%E5%8F%AF%E8%BE%A8%E8%AD%98%E8%A4%87%E5%90%88%E5%9E%8B%E5%88%A5-31d96d83fadf?source=rss-d8aa3754f97a------2)
-- [[docusaurus] 在 Docusaurus 中使用 Algolia 實作搜尋功能 &lpar;Docusaurus Algolia&rpar;](https://medium.com/@weiyun0912/docusaurus-%E5%9C%A8-docusaurus-%E4%B8%AD%E4%BD%BF%E7%94%A8-algolia-%E5%AF%A6%E4%BD%9C%E6%90%9C%E5%B0%8B%E5%8A%9F%E8%83%BD-4953b6ed4c34?source=rss-d8aa3754f97a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more posts...](https://medium.com/@weiyun0912)
