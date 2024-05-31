@@ -131,11 +131,11 @@
 <h2 align="center">📕 Medium Post Latest Posts:</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [[vue] Vue 動態載入 Component](https://medium.com/@weiyun0912/vue-vue-%E5%8B%95%E6%85%8B%E8%BC%89%E5%85%A5-component-8b1690edfd7f?source=rss-d8aa3754f97a------2)
+- [[vue] Vue 如何定義全域 Component](https://medium.com/@weiyun0912/vue-vue-%E5%A6%82%E4%BD%95%E5%AE%9A%E7%BE%A9%E5%85%A8%E5%9F%9F-component-0c4e80f84dc4?source=rss-d8aa3754f97a------2)
 - [[vue] Vue 使用動態元件渲染 HTML](https://medium.com/@weiyun0912/vue-vue-%E4%BD%BF%E7%94%A8%E5%8B%95%E6%85%8B%E5%85%83%E4%BB%B6%E6%B8%B2%E6%9F%93-html-7421667ad3dc?source=rss-d8aa3754f97a------2)
 - [[vue] Vue Provide 與 Inject 用法](https://medium.com/@weiyun0912/vue-vue-provide-%E8%88%87-inject-%E7%94%A8%E6%B3%95-f25d92db4cdd?source=rss-d8aa3754f97a------2)
 - [[vue] Vue 自訂語法 Directive 用法](https://medium.com/@weiyun0912/vue-vue-%E8%87%AA%E8%A8%82%E8%AA%9E%E6%B3%95-directive-%E7%94%A8%E6%B3%95-9a567bd73e26?source=rss-d8aa3754f97a------2)
-- [[vue] Vue Emit 用法](https://medium.com/@weiyun0912/vue-vue-emit-%E7%94%A8%E6%B3%95-b5dedfce50d1?source=rss-d8aa3754f97a------2)
-- [[vue] Vue Slot 用法](https://medium.com/@weiyun0912/vue-vue-slot-%E7%94%A8%E6%B3%95-0a092b484f19?source=rss-d8aa3754f97a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more posts...](https://medium.com/@weiyun0912)
