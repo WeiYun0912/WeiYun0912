@@ -112,7 +112,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：2140 | 影片總數：136</h3></div>
+<div align="center"><h3>訂閱人數：2150 | 影片總數：137</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=0pME1HTQvtY"><img width="140px" src="https://i.ytimg.com/vi/0pME1HTQvtY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0pME1HTQvtY">Vue 3 教學 - Vue Router 基礎入門 &lpar;vue3,vue-router&rpar;</a><br/>May 27, 2024</td></tr></table>
