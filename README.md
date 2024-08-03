@@ -112,7 +112,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：2290 | 影片總數：137</h3></div>
+<div align="center"><h3>訂閱人數：2300 | 影片總數：137</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=yKiOVSu9LQE"><img width="140px" src="https://i.ytimg.com/vi/yKiOVSu9LQE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yKiOVSu9LQE">美化你的 Windows Terminal &lpar;oh-my-posh, history autocomplete, terminal icons&rpar;</a><br/>Jun 1, 2024</td></tr></table>
