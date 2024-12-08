@@ -114,7 +114,9 @@
 <!-- UPDATE_YOUTUBE:START -->
 <div align="center"><h3>訂閱人數：2540 | 影片總數：138</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=yKiOVSu9LQE"><img width="140px" src="https://i.ytimg.com/vi/yKiOVSu9LQE/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=7MDI54nlEbc"><img width="140px" src="https://i.ytimg.com/vi/7MDI54nlEbc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=7MDI54nlEbc">Vue3 教學 - Vue Query Part.1 &lpar;useQuery,useMutation&rpar;</a><br/>Dec 8, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=yKiOVSu9LQE"><img width="140px" src="https://i.ytimg.com/vi/yKiOVSu9LQE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yKiOVSu9LQE">美化你的 Windows Terminal &lpar;oh-my-posh, history autocomplete, terminal icons&rpar;</a><br/>Jun 1, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0pME1HTQvtY"><img width="140px" src="https://i.ytimg.com/vi/0pME1HTQvtY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0pME1HTQvtY">Vue 3 教學 - Vue Router 基礎入門 &lpar;vue3,vue-router&rpar;</a><br/>May 27, 2024</td></tr></table>
@@ -122,8 +124,6 @@
 <td><a href="https://www.youtube.com/watch?v=CDipATge84g">檢查 Git Staged 的檔案是否符合 ESLint 規範 &lpar;git hook, husky, lint-staged, eslint&rpar;</a><br/>May 24, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=iwMzzAzYgjE"><img width="140px" src="https://i.ytimg.com/vi/iwMzzAzYgjE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=iwMzzAzYgjE">Vue 3 教學 - 使用 ESLint 提高 Debug 效率 &lpar;Vue3, ESLint&rpar;</a><br/>May 21, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=0CNE0QseL-g"><img width="140px" src="https://i.ytimg.com/vi/0CNE0QseL-g/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0CNE0QseL-g">Vue 3 教學 - 使用 Vue3 Composition Api 實作 Todo List &lpar;Vue3&rpar;</a><br/>May 19, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/123123960)
