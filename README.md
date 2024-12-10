@@ -115,7 +115,7 @@
 <div align="center"><h3>訂閱人數：2550 | 影片總數：138</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=7MDI54nlEbc"><img width="140px" src="https://i.ytimg.com/vi/7MDI54nlEbc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=7MDI54nlEbc">Vue3 教學 - Vue Query Part.1 &lpar;useQuery,useMutation&rpar;</a><br/>Dec 8, 2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=7MDI54nlEbc">Vue3 教學 - Vue Query Part.1 使用 useQuery 與 useMutation</a><br/>Dec 8, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=yKiOVSu9LQE"><img width="140px" src="https://i.ytimg.com/vi/yKiOVSu9LQE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yKiOVSu9LQE">美化你的 Windows Terminal &lpar;oh-my-posh, history autocomplete, terminal icons&rpar;</a><br/>Jun 1, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0pME1HTQvtY"><img width="140px" src="https://i.ytimg.com/vi/0pME1HTQvtY/mqdefault.jpg"></a></td>
