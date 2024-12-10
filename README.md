@@ -112,7 +112,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：2550 | 影片總數：138</h3></div>
+<div align="center"><h3>訂閱人數：2550 | 影片總數：139</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=7MDI54nlEbc"><img width="140px" src="https://i.ytimg.com/vi/7MDI54nlEbc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7MDI54nlEbc">Vue3 教學 - Vue Query Part.1 使用 useQuery 與 useMutation</a><br/>Dec 8, 2024</td></tr></table>
