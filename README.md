@@ -112,7 +112,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：2550 | 影片總數：139</h3></div>
+<div align="center"><h3>訂閱人數：2550 | 影片總數：140</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=pxHSArLEvgs"><img width="140px" src="https://i.ytimg.com/vi/pxHSArLEvgs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pxHSArLEvgs">Vue3 教學 - Vue Query Part.2 資料狀態與重新獲取機制 &lpar;stale,fresh,paused,inActive&rpar;</a><br/>Dec 10, 2024</td></tr></table>
