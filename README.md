@@ -112,7 +112,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：2550 | 影片總數：140</h3></div>
+<div align="center"><h3>訂閱人數：2560 | 影片總數：140</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=skJWxXDljS0"><img width="140px" src="https://i.ytimg.com/vi/skJWxXDljS0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=skJWxXDljS0">Vue3 教學 - Vue Query Part.3 使用 placeholderData 與 keepPreviousData 提升分頁體驗</a><br/>Dec 11, 2024</td></tr></table>
