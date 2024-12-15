@@ -114,16 +114,16 @@
 <!-- UPDATE_YOUTUBE:START -->
 <div align="center"><h3>訂閱人數：2560 | 影片總數：141</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=skJWxXDljS0"><img width="140px" src="https://i.ytimg.com/vi/skJWxXDljS0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=I-qGvLln-pg"><img width="140px" src="https://i.ytimg.com/vi/I-qGvLln-pg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=I-qGvLln-pg">Vue3 教學 - Vue Query Part.4 使用 useMutation 進行樂觀更新</a><br/>Dec 15, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=skJWxXDljS0"><img width="140px" src="https://i.ytimg.com/vi/skJWxXDljS0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=skJWxXDljS0">Vue3 教學 - Vue Query Part.3 使用 placeholderData 與 keepPreviousData 提升分頁體驗</a><br/>Dec 11, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=pxHSArLEvgs"><img width="140px" src="https://i.ytimg.com/vi/pxHSArLEvgs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=pxHSArLEvgs">Vue3 教學 - Vue Query Part.2 資料狀態與重新獲取機制 &lpar;stale,fresh,paused,inActive&rpar;</a><br/>Dec 10, 2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=pxHSArLEvgs">Vue3 教學 - Vue Query Part.2 資料生命週期與重新獲取機制 &lpar;stale,fresh,paused,inActive&rpar;</a><br/>Dec 10, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=7MDI54nlEbc"><img width="140px" src="https://i.ytimg.com/vi/7MDI54nlEbc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7MDI54nlEbc">Vue3 教學 - Vue Query Part.1 使用 useQuery 與 useMutation</a><br/>Dec 8, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=yKiOVSu9LQE"><img width="140px" src="https://i.ytimg.com/vi/yKiOVSu9LQE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yKiOVSu9LQE">美化你的 Windows Terminal &lpar;oh-my-posh, history autocomplete, terminal icons&rpar;</a><br/>Jun 1, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=0pME1HTQvtY"><img width="140px" src="https://i.ytimg.com/vi/0pME1HTQvtY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0pME1HTQvtY">Vue 3 教學 - Vue Router 基礎入門 &lpar;vue3,vue-router&rpar;</a><br/>May 27, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/123123960)
