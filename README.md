@@ -54,14 +54,14 @@
 <h2 align="center">📕 My Blog Latest Posts:</h2>
 
 <!-- UPDATE_WEISITE:START -->
+- 2025-01-08：新增 Sequelize DB Migrate 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Sequelize/Sequelize-DB-Migrate)
+- 2024-05-28：新增 美化你的 Windows Terminal (oh-my-posh) 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Others/Windows-Terminal-Better)
+- 2024-05-26：新增 Vue Router 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-Router)
+- 2024-05-26：新增 Vue 使用 Composable 將相同的程式碼邏輯抽離 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-Composable)
+- 2024-05-24：新增 Vue Lazy Component (definedAsyncComponent) 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-Lazy-Component)
+- 2024-05-24：新增 Vue 動態載入 Component 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-Dynamic-Render-Component)
+- 2024-05-24：新增 Vue 如何定義全域 Component 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-Global-Component)
 - 2024-05-24：新增 檢查 Git Staged 的檔案是否符合 ESLint 規範 (git hook, husky, lint-staged, eslint) 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Others/Husky-Lint-Staged)
-- 2024-05-23：新增 Vue 使用動態元件渲染 HTML 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-Dynamic-Render-HTML)
-- 2024-05-23：新增 Vue Provide 與 Inject 用法 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-Provide-Inject)
-- 2024-05-23：新增 Vue 自訂語法 Directive 用法 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-Directive)
-- 2024-05-23：新增 Vue 基礎語法 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-Basic)
-- 2024-05-22：新增 Vue Emit 用法 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-Emit)
-- 2024-05-22：新增 Vue Slot 用法 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-Slot)
-- 2024-05-22：新增 個人常用的 Vue ESLint Rules 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-ESLint)
 <!-- UPDATE_WEISITE:END -->
 
 
