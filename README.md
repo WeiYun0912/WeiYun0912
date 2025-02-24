@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **yher25@gmail.com**
 
-- 📓 CakeResume：https://www.cakeresume.com/wei-wei-e8a62e
+- 📓 Resume：https://reurl.cc/b3AYOy
 
 <h2 align="center">📺 Latest YouTube Videos:</h2>
 
