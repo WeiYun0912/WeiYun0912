@@ -54,14 +54,14 @@
 <h2 align="center">📕 My Blog Latest Posts:</h2>
 
 <!-- UPDATE_WEISITE:START -->
-- 2025-01-08：新增 Sequelize DB Migrate 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Sequelize/Sequelize-DB-Migrate)
-- 2024-05-28：新增 美化你的 Windows Terminal (oh-my-posh) 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Others/Windows-Terminal-Better)
-- 2024-05-26：新增 Vue Router 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-Router)
-- 2024-05-26：新增 Vue 使用 Composable 將相同的程式碼邏輯抽離 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-Composable)
-- 2024-05-24：新增 Vue Lazy Component (definedAsyncComponent) 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-Lazy-Component)
-- 2024-05-24：新增 Vue 動態載入 Component 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-Dynamic-Render-Component)
-- 2024-05-24：新增 Vue 如何定義全域 Component 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-Global-Component)
-- 2024-05-24：新增 檢查 Git Staged 的檔案是否符合 ESLint 規範 (git hook, husky, lint-staged, eslint) 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Others/Husky-Lint-Staged)
+- 2025-03-08：新增 Vue 使用 Lottie 動畫 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-30/Vue-Lottie)
+- 2025-03-07：新增 VueUse 介紹 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-30/Vue-Use)
+- 2025-03-06：新增 Vue 使用 mitt 進行跨元件溝通 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-30/Vue-Mitt)
+- 2025-03-05：新增 Vue 3 父元件傳遞 Props 到孫元件的 4 種常見方法 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-30/Vue-Props)
+- 2025-03-04：新增 Vue Slot 基本介紹 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-30/Vue-Slot)
+- 2025-03-03：新增 Vue Render Function 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-30/Vue-Render-Function)
+- 2025-03-02：新增 Vue Watch 和 WatchEffect 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-30/Vue-Watch-WatchEffect)
+- 2025-03-01：新增 Vue Ref、Reactive、Computed 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-30/Vue-Ref-Reactive-Computed)
 <!-- UPDATE_WEISITE:END -->
 
 
