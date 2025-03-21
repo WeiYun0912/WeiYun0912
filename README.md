@@ -26,7 +26,7 @@
 <div align="center"><h3>訂閱人數：2730 | 影片總數：143</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=IC8OX9tjbsU"><img width="140px" src="https://i.ytimg.com/vi/IC8OX9tjbsU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=IC8OX9tjbsU">使用 Blender MCP + Claude Desktop 製作 3D 模型並用 React Three 渲染 &lpar;AI 建模, MCP協, GLB檔案, Three.js&rpar;</a><br/>Mar 21, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=IC8OX9tjbsU">使用 Blender MCP + Claude Desktop 製作 3D 模型並用 React Three 渲染 &lpar;AI 建模, MCP, GLB檔案, Three.js&rpar;</a><br/>Mar 21, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=8TpZAL-E6gs"><img width="140px" src="https://i.ytimg.com/vi/8TpZAL-E6gs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8TpZAL-E6gs">Vue3 教學 - Vue Query Part.5 如何使用 enabled 控制查詢與 prefetch 提升使用者體驗</a><br/>Dec 17, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=I-qGvLln-pg"><img width="140px" src="https://i.ytimg.com/vi/I-qGvLln-pg/mqdefault.jpg"></a></td>
