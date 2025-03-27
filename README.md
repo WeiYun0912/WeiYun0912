@@ -54,14 +54,14 @@
 <h2 align="center">📕 My Blog Latest Posts:</h2>
 
 <!-- UPDATE_WEISITE:START -->
-- 2025-03-17：新增 Vue Query 介紹： 使用 placeholderData 與 keepPreviousData 提升分頁體驗 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-30/Vue-Query-Page-UX)
-- 2025-03-16：新增 Vue Query 介紹： 使用 useMutation 來發送 API 請求 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-30/Vue-Query-Use-Mutation)
-- 2025-03-15：新增 Vue Query 介紹： 資料生命週期介紹 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-30/Vue-Query-Lifecycle)
-- 2025-03-14：新增 Vue Query 介紹： 使用 useQuery 來管理 API 資料 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-30/Vue-Use-Query)
-- 2025-03-13：新增 Vue Query 介紹： 讓 API 資料管理更簡單方便 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-30/Vue-Query-Intro)
-- 2025-03-12：新增 Vue 3 使用 index 當 key 的問題 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-30/Vue-Key-index)
-- 2025-03-11：新增 Vue 將 State 放入 URL 的好處與實作方式 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-30/Vue-URL-State)
-- 2025-03-10：新增 Vue 使用 vue-easy-lightbox 預覽圖片 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-30/Vue-ImagePreview)
+- 2025-03-30：新增 Vue Query 介紹： 使用 Dependent Queries 與 Disabling Queries 來優化 API 查詢 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-30/Vue-Query-Disable-Depend)
+- 2025-03-29：新增 Vue Query 介紹： 使用 Parallel Queries 來處理動態查詢 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-30/Vue-Query-Parallel)
+- 2025-03-28：新增 Vue Query 介紹： 使用 cancelQuery 來取消請求 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-30/Vue-Query-Cancel-Query)
+- 2025-03-27：新增 Vue Query 介紹： 使用 prefetchQuery 來預先載入資料 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-30/Vue-Query-Prefetching)
+- 2025-03-26：新增 Vue Query 介紹： 使用 useMutation 進行樂觀更新 (Optimistic Updates) 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-30/Vue-Query-Optimistic-Updates)
+- 2025-03-25：新增 Vue Query 介紹： 使用 placeholderData 與 keepPreviousData 提升分頁體驗 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-30/Vue-Query-Page-UX)
+- 2025-03-24：新增 Vue Query 介紹： 使用 useMutation 來發送 API 請求 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-30/Vue-Query-Use-Mutation)
+- 2025-03-23：新增 Vue Query 介紹： 資料生命週期介紹 文章。 [連結](https://wei-docusaurus-vercel.vercel.app/docs/Vue/Vue-30/Vue-Query-Lifecycle)
 <!-- UPDATE_WEISITE:END -->
 
 
