@@ -23,7 +23,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：3080 | 影片總數：143</h3></div>
+<div align="center"><h3>訂閱人數：3090 | 影片總數：143</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=IC8OX9tjbsU"><img width="140px" src="https://i.ytimg.com/vi/IC8OX9tjbsU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=IC8OX9tjbsU">使用 Blender MCP + Claude Desktop 製作 3D 模型並用 React Three 渲染 &lpar;AI 建模, MCP, GLB檔案, Three.js&rpar;</a><br/>Mar 21, 2025</td></tr></table>
