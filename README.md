@@ -25,7 +25,9 @@
 <!-- UPDATE_YOUTUBE:START -->
 <div align="center"><h3>訂閱人數：3080 | 影片總數：144</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=IC8OX9tjbsU"><img width="140px" src="https://i.ytimg.com/vi/IC8OX9tjbsU/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=npIYkXlF_lQ"><img width="140px" src="https://i.ytimg.com/vi/npIYkXlF_lQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=npIYkXlF_lQ">這頻道是荒廢了是不是</a><br/>Jan 1, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=IC8OX9tjbsU"><img width="140px" src="https://i.ytimg.com/vi/IC8OX9tjbsU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=IC8OX9tjbsU">使用 Blender MCP + Claude Desktop 製作 3D 模型並用 React Three 渲染 &lpar;AI 建模, MCP, GLB檔案, Three.js&rpar;</a><br/>Mar 21, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=8TpZAL-E6gs"><img width="140px" src="https://i.ytimg.com/vi/8TpZAL-E6gs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8TpZAL-E6gs">Vue3 教學 - Vue Query Part.5 如何使用 enabled 控制查詢與 prefetch 提升使用者體驗</a><br/>Dec 17, 2024</td></tr></table>
@@ -33,8 +35,6 @@
 <td><a href="https://www.youtube.com/watch?v=I-qGvLln-pg">Vue3 教學 - Vue Query Part.4 使用 useMutation 進行樂觀更新</a><br/>Dec 15, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=skJWxXDljS0"><img width="140px" src="https://i.ytimg.com/vi/skJWxXDljS0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=skJWxXDljS0">Vue3 教學 - Vue Query Part.3 使用 placeholderData 與 keepPreviousData 提升分頁體驗</a><br/>Dec 11, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=pxHSArLEvgs"><img width="140px" src="https://i.ytimg.com/vi/pxHSArLEvgs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=pxHSArLEvgs">Vue3 教學 - Vue Query Part.2 資料生命週期與重新獲取機制 &lpar;stale,fresh,paused,inActive&rpar;</a><br/>Dec 10, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/123123960)
