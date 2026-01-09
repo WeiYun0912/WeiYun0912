@@ -86,7 +86,7 @@
 <h2 align="center">👣 My Github Activity:</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/Game-as-a-Service/The-Message/pull/8#issuecomment-1730780345) in [Game-as-a-Service/The-Message](https://github.com/Game-as-a-Service/The-Message)
+1. 🔒 Closed issue [#3](https://github.com/WeiYun0912/power30678-sam1268/issues/3) in [WeiYun0912/power30678-sam1268](https://github.com/WeiYun0912/power30678-sam1268)
 2. ❌ Closed PR [#2](https://github.com/WeiYun0912/react-ts-learning/pull/2) in [WeiYun0912/react-ts-learning](https://github.com/WeiYun0912/react-ts-learning)
 3. ❌ Closed PR [#3](https://github.com/WeiYun0912/react-ts-learning/pull/3) in [WeiYun0912/react-ts-learning](https://github.com/WeiYun0912/react-ts-learning)
 4. 💪 Opened PR [#3](https://github.com/WeiYun0912/react-ts-learning/pull/3) in [WeiYun0912/react-ts-learning](https://github.com/WeiYun0912/react-ts-learning)
