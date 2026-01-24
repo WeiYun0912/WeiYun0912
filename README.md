@@ -23,7 +23,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：3110 | 影片總數：144</h3></div>
+<div align="center"><h3>訂閱人數：3100 | 影片總數：144</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=npIYkXlF_lQ"><img width="140px" src="https://i.ytimg.com/vi/npIYkXlF_lQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=npIYkXlF_lQ">這頻道是荒廢了是不是</a><br/>Jan 1, 2026</td></tr></table>
