@@ -23,7 +23,7 @@
 </div>
 
 <!-- UPDATE_YOUTUBE:START -->
-<div align="center"><h3>訂閱人數：3130 | 影片總數：145</h3></div>
+<div align="center"><h3>訂閱人數：3120 | 影片總數：145</h3></div>
 <!-- UPDATE_YOUTUBE:END -->
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=6Xfddce1tjo"><img width="140px" src="https://i.ytimg.com/vi/6Xfddce1tjo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=6Xfddce1tjo">MCP Apps 又是什麼？ 不要再來了 我快學不動了</a><br/>Jan 27, 2026</td></tr></table>
