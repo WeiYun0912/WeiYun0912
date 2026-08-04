@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **yher25@gmail.com**
 
-- 📓 Resume：https://reurl.cc/b3AYOy
-
 <h2 align="center">📺 Latest YouTube Videos:</h2>
 
 <div align="center">
